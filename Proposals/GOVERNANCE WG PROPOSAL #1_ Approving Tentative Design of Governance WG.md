@@ -1,5 +1,6 @@
 # GOVERNANCE WG PROPOSAL #1: Approving Tentative Design of Governance WG
-![](https://i.imgur.com/4LICc8u.png)[Snapshot Link ](
+![](https://i.imgur.com/4LICc8u.png)
+[Snapshot Link ](
 https://snapshot.org/#/thedreamdao.eth/proposal/0x1cf93433e53c157c647bd2b07a66d16327bedf09085c08b38477d93340afa548)
 
 🎯**Goals:**
