@@ -1,0 +1,3 @@
+# What does the org do, it’s mission
+
+Tentative answer: http://shil.me/ is the first Linktree for Web3 for the next 1B digital asset collectors. They’re building a simple, lightweight, and elegant link-in-bio solution for displaying NFTs and digital assets from all across the Web3 ecosystem. At http://shil.me/, they’re deeply passionate about a Web3 future, and we believe that the ownership-compliant economies of Web3 will introduce innovative and revolutionary use cases, business models, and transaction mechanisms for decades to come.

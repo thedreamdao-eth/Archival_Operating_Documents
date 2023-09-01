@@ -1,0 +1,1 @@
+# What happens at fundraising wg meetings?

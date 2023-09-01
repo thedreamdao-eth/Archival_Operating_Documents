@@ -1,0 +1,3 @@
+# Merit Minter
+
+Type: Role

@@ -1,0 +1,14 @@
+# Sam Rad
+
+About me: Hello there! I am Sam Rad. I don't even know where to start with the story of how my journey intersected with this new way of thinking, living, and collarborating. It was probably long before I got into tech as an entrepeneur. I was always questioning about how we could do things differently, shape a different reality, manifest the future. My background was actually in theater (as a writer, performer, and director) where I created a NYC based theater company for senior citizens 65+ to participate in plays that addressed socially relevant issues. I expanded this to all demographics, and incorporated tech. During that time, I was finishing my undergrad degree in anthropology and wrote my thesis on the virtual world, Second Life. I came across digital assets, bitcoin, and the ideas of decentralization and my mind was blown. I ended up on a PhD track to research virtual economies (in 2011) but started a company and, well, 3 companies in blockchain/web 3/crypto and here I am today. I found that over the years, my super power has been educating about the WHY of web 3 because so many folks would dive deep into the what it is, how it works, without showing WHY we need it. I ended up joining Singularity University in 2017 for blockchain faculty, have continued my research and participation in DAOs, give keynotes around the world, and have written an introductory guide called Bitcoin Pizza: The No-Bullshit Guide to Blockchain. I'm now the CEO of a Web 3 Communication Platform called LOVE, which aims to decentralize and democratize personal communications (and take on the Facebook monopoly!). We believe communication platforms (and the internet) should be a public utility. My super power is being a storyteller and catalyzer. I can equal gravitas stand on a stage as a keynote speaker or behind the stage as a director and empower folks into action. (If I believe in and my values align with the cause). As I have reflected over the years, I've realized that this shift in my consciousness is something that will never change and I will work the rest of my life to advocate, educate, and empower folks to imagine new models of cooperative governance, value creation, and more.
+Pronouns: she/her
+Membership Status: Active Voting Member
+Membership Type: Founding Champion 🏆 
+Discord Username: Sam Rad#5213
+Email: samantha.radocchia@gmail.com
+Wallet Address: 0xa9BfDBC5639D18876b67c583d39Cae7cE63FAAfc
+Nearest Major City: New York City
+Twitter: https://twitter.com/SamRadOfficial
+LinkedIn : https://www.linkedin.com/in/samantharadocchia/
+
+![Sam.png](Sam%20Rad%204d12d52cda2f400f8af76d5ebbda5459/Sam.png)

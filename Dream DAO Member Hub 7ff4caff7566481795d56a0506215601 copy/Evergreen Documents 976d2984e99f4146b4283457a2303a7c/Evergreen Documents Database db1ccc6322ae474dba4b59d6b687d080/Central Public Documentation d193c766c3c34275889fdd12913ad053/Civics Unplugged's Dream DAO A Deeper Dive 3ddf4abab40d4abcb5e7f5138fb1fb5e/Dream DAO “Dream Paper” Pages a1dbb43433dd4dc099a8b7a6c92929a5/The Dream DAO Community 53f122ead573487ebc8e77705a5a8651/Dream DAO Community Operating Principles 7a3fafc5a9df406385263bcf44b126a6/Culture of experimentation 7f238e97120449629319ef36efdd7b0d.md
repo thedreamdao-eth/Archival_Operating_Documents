@@ -1,0 +1,3 @@
+# Culture of experimentation
+
+Why we chose this principle: Accelerants to human flourishing will be discovered thanks to cultures of experimentation. The greatest ideas have come from communities where members are given freedom and encouragement to experiment. By creating the conditions for the larger community of agents to come up with their own courses of action instead of centrally planning all DAO activities, Civics Unplugged empowers its members to spearhead better solutions than what would have otherwise been devised.

@@ -1,0 +1,1 @@
+# Host site is compatible/can work with intern’s time zone

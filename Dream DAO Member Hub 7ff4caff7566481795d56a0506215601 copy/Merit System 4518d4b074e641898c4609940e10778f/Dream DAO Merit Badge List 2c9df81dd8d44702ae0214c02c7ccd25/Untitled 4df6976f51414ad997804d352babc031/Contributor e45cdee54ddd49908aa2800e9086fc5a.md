@@ -1,0 +1,6 @@
+# Contributor
+
+Type: DAO-Wide
+Level: 2️⃣
+OpenSea link: https://opensea.io/assets/matic/0x1a92cf0eb9097fa48471a2b18fb4a822ea430391/9
+Requirements : Have a recurring role for at least one season

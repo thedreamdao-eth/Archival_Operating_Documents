@@ -1,0 +1,3 @@
+# What does "build a brighter future for humanity" mean?
+
+What it is: Climate change, racial injustice, and other issues that plague our world can only be solved if we train radically empathetic, community minded and systems oriented leaders who represent an answer to the global leadership crisis. We're building the future by creating leaders who are equipped to build it, and then empowering them to do so.

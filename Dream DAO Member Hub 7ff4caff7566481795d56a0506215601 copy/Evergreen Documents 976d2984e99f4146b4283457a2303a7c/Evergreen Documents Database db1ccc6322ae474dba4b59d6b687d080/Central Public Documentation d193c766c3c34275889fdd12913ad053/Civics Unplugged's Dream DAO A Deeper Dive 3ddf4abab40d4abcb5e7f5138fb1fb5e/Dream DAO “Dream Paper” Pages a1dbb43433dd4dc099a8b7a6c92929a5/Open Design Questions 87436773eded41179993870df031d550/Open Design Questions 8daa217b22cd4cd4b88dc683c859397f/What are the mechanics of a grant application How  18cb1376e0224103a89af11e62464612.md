@@ -1,0 +1,1 @@
+# What are the mechanics of a grant application? How can we make this unique and meritocratic?

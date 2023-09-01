@@ -1,0 +1,4 @@
+# If it's introductory, then wouldn't it be difficult to make people come back as they take dives at the deeper end? We would have to make it so that it's like a node that holds the other nodes together- we don't want to create information gap esp for newbies.
+
+Working answer: Rather than encouraging return, we want to provide a resource that allows for deeper dives to branch off into more niche resources that have circulated within the regen web3 community but are virtually untouched by noobs. 
+Related to Design Choices (1) (Answers what design choices/): External resource netting (../Design%20Choices%20c0d79da77bef4a199d9eaa1e5ad3563d/External%20resource%20netting%202c4dcf87e59545eb8ca3775ed579314e.md)

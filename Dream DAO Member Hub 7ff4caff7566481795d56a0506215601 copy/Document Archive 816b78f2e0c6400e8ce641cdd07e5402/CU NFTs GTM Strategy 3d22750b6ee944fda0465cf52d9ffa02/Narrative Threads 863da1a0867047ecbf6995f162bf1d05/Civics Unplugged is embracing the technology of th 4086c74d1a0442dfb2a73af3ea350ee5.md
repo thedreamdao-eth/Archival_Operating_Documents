@@ -1,0 +1,3 @@
+# Civics Unplugged is embracing the technology of the future to build the future.
+
+Broadcasts which Goal: Create a new usecase for NFTs / DAOs (../Goals%207e78f1fd886f4656a21d84f6be245fb2/Create%20a%20new%20usecase%20for%20NFTs%20DAOs%208d700a460aca45e9a7bc933239690c4b.md), Build a community of crypto-holders dedicated to the success of CU (../Goals%207e78f1fd886f4656a21d84f6be245fb2/Build%20a%20community%20of%20crypto-holders%20dedicated%20to%20t%20b682bec9c3ca49ccb60051c8bdcd9581.md), Raise Money for Civics Unplugged (../Goals%207e78f1fd886f4656a21d84f6be245fb2/Raise%20Money%20for%20Civics%20Unplugged%20d8d1b603f1d546489e74a214a19bfe5e.md)

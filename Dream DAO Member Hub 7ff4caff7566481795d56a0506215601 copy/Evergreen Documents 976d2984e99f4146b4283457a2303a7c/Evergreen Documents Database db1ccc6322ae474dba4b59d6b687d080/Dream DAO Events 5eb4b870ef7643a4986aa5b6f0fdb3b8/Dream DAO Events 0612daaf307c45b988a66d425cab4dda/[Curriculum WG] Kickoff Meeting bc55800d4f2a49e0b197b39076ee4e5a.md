@@ -1,0 +1,9 @@
+# [Curriculum WG] Kickoff Meeting
+
+Date: January 24, 2022
+Recording (Video): ../video1843991603.mp4
+Host: Allison + Gary
+
+Notes taken here: [https://www.notion.so/cucrew/Meeting-1-1-24-5443c57f3a7d4d4eb4558456484ef923](../../../../Document%20Archive%20816b78f2e0c6400e8ce641cdd07e5402/Dream%20DAO%20Working%20Groups%20Home%20Season%201%204d1702104a2f4180a27e92b0510bd283/Dream%20DAO%20Phase%201%20Working%20Groups%20c53752864e064f6da1b9f1c4ed1019ba/DAO%20Learning%20WG%20415a199b4a194ad182107da7dd8ed022/Meeting%20Notes!%20d40c333e72a843bebc39264bf64be9e6/Meeting%20#1%20-%201%2024%205443c57f3a7d4d4eb4558456484ef923.md)
+
+Video link: [https://s3.us-west-2.amazonaws.com/secure.notion-static.com/29ac6339-13bf-477c-9b6b-e774452d9a3e/video1843991603.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220125%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220125T033543Z&X-Amz-Expires=86400&X-Amz-Signature=d60b5a8d913469b1ebca9919ef491d5e1c838bb9803fd181a713db79a354c5b5&X-Amz-SignedHeaders=host&response-content-disposition=filename %3D"video1843991603.mp4"&x-id=GetObject](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/29ac6339-13bf-477c-9b6b-e774452d9a3e/video1843991603.mp4?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220125%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220125T033543Z&X-Amz-Expires=86400&X-Amz-Signature=d60b5a8d913469b1ebca9919ef491d5e1c838bb9803fd181a713db79a354c5b5&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22video1843991603.mp4%22&x-id=GetObject)

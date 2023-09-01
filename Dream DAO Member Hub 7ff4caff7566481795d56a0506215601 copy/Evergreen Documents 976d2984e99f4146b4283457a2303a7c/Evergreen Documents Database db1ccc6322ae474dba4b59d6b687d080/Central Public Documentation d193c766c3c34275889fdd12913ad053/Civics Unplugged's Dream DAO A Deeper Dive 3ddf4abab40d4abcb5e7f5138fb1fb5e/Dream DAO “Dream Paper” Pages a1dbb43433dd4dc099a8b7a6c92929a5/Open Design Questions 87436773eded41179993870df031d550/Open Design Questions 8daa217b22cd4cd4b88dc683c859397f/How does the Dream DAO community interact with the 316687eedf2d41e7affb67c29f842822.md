@@ -1,0 +1,1 @@
+# How does the Dream DAO community interact with the Fellowship alumni community? Do Builders (and non-builders) go through an application process or are they nominated/selected in another way? If it is an application process and some are not accepted, how do you ensure they are still incentivized to be active in the Fellowship alumni community and potentially apply again?

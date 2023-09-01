@@ -1,0 +1,3 @@
+# Explorers contributed to the collective intelligence/knowledge of the Dream DAO, web3, and the world
+
+Is fulfilled through what choices: Explorers each create two “Learning Artifacts” (e.g. blog posts, vlogs, Learning Together Sessions) for the world—one at the midpoint of the program and one at the end (../Design%20Choices%20b4a45c01f77940589dd79b2d37d4c7d9/Explorers%20each%20create%20two%20%E2%80%9CLearning%20Artifacts%E2%80%9D%20(e%20%20c157cf49c8874617a132074bf9d5ddb3.md), Explorers collectively as a cohort create a capstone project that advances Dream DAO and the web3 x social impact space. (../Design%20Choices%20b4a45c01f77940589dd79b2d37d4c7d9/Explorers%20collectively%20as%20a%20cohort%20create%20a%20capsto%20397ed2def2294267b7c85be6f2f222c5.md)

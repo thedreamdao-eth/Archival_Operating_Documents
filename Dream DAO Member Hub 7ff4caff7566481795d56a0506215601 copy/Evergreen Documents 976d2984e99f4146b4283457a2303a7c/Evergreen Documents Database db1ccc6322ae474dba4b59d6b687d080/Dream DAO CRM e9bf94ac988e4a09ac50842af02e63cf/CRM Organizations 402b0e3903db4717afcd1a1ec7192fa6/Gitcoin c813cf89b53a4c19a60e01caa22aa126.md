@@ -1,0 +1,3 @@
+# Gitcoin
+
+Contacts in Organization: Kevin Owocki (../Dream%20DAO%20CRM%207340609ec50e4d7a9b3aa35d45be0453/Kevin%20Owocki%20e3e60f195d6f4187b2d31b2d6bf16413.md), Annika  (../Dream%20DAO%20CRM%207340609ec50e4d7a9b3aa35d45be0453/Annika%2081ced28169bc472a8f0ad251f1fe037f.md), Janine Leger (../Dream%20DAO%20CRM%207340609ec50e4d7a9b3aa35d45be0453/Janine%20Leger%20db93f59790e34c60937414e803178d2c.md), Azeem (../Dream%20DAO%20CRM%207340609ec50e4d7a9b3aa35d45be0453/Azeem%20be3fb0c1a7bf4ce18bf7c4c9c57a3608.md)

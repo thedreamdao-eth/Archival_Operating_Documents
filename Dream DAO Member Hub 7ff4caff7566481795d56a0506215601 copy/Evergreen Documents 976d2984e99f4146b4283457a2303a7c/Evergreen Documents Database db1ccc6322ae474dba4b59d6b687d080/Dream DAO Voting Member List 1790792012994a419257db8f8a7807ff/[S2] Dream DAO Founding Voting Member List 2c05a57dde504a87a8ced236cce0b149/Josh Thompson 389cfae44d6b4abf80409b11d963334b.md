@@ -1,0 +1,20 @@
+# Josh Thompson
+
+About me: Josh is a New York-based serial entrepreneur and investor with over 15 years of experience across the ed tech, venture capital, impact investing, and blockchain industries. He specializes in working with early stage companies and in forging public-private partnerships.Recently, he founded and launched Civics Unplugged, which is quickly becoming the largest and most effective democracy building movement in the world. Prior to joining Aera, Josh was a Venture Partner at Human Ventures, an incubator with a reputation for one of the most authentic and disruptive models in New York.
+While at Human Ventures, Josh founded and launched Onward Labs, a venture studio that uses emerging and distributed technologies to tackle the world’s most pressing issues.
+Josh spent much of his career in American politics and in 2017, he became the youngest candidate for Mayor that New York City has seen in over 135 years. Homelessness is a key issue that Josh has always campaigned for; in 2018, he pioneered a blockchain powered system that empowers recipients of aid to verify the impact of the products and services they receive from nonprofit / government organizations.
+Josh has a knack for relationship-building and fundraising and has helped raise over $300M+ for non-profit organizations and political campaigns as well as $15M+ for seed-stage startups. Josh remains an active investor to-date and is always on the lookout for opportunities in the climate, carbon, and blockchain spaces.
+Member Type: Champion 🙌
+What are your preferred pronouns?: Josh
+Email: josh@civicsunplugged.org
+Discord username: JTT#6508
+Nearest major city: New York
+Social handles: @UnofficialJosh
+ETH wallet address: 0x36C488771b5eE5485f83D8B9e51ebF26cc587F28
+CRM Contacts: Diana Richter (../../Dream%20DAO%20CRM%20e9bf94ac988e4a09ac50842af02e63cf/Dream%20DAO%20CRM%207340609ec50e4d7a9b3aa35d45be0453/Diana%20Richter%20e46540ff434f4525a8810f10a49b0929.md)
+Working Group(s): Partnerships WG (../../../../Document%20Archive%20816b78f2e0c6400e8ce641cdd07e5402/Dream%20DAO%20Working%20Groups%20Home%20Season%201%204d1702104a2f4180a27e92b0510bd283/Dream%20DAO%20Phase%201%20Working%20Groups%20c53752864e064f6da1b9f1c4ed1019ba/Partnerships%20WG%2044c8812d987940fc8290babae3d679e1.md)
+Can help how?: Bringing in other Champions into the community, Funding
+Other comments: A sick jumpshot
+I am a...: Founder, Crypto enthusiast, Philanthropist, Hyperconnector
+
+![Untitled](Josh%20Thompson%20389cfae44d6b4abf80409b11d963334b/Untitled.jpeg)

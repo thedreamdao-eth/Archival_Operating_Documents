@@ -1,0 +1,1 @@
+# will hosts pay the stipend to dream dao or directly to explorers?

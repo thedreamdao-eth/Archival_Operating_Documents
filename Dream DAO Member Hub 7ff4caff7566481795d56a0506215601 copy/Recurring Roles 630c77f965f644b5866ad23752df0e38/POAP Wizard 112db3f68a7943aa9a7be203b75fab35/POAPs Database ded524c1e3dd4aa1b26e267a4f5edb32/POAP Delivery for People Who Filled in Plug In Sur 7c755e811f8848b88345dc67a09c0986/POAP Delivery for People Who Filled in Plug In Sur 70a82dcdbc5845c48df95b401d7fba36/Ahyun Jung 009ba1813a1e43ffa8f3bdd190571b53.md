@@ -1,0 +1,7 @@
+# Ahyun Jung
+
+Discord username: Ahyun#2826
+DMed a POAP: Yes
+Email: ahyunjung36@gmail.com
+Unique POAP Link: 
+http://POAP.xyz/claim/di3tgw

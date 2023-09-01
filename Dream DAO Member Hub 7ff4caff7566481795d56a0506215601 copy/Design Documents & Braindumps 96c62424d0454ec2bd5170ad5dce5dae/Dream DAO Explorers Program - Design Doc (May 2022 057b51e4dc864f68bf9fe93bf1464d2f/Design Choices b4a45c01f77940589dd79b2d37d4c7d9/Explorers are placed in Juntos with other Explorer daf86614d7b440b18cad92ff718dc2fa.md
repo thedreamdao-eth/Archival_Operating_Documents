@@ -1,0 +1,3 @@
+# Explorers are placed in Juntos with other Explorers and some Champions, and meet every week
+
+Helps fulfill what objectives?: Explorers had a great, fulfilling time (../Design%20Objectives%205b501b0fb6d64bab819ee55c450da97e/Explorers%20had%20a%20great,%20fulfilling%20time%20082def8c2fd546a4a303ac14e50816a3.md), Explorers have a place to ask "dumb" questions (../Design%20Objectives%205b501b0fb6d64bab819ee55c450da97e/Explorers%20have%20a%20place%20to%20ask%20dumb%20questions%2018f89031a14d4cf99f5fd7a2bdadfe01.md)

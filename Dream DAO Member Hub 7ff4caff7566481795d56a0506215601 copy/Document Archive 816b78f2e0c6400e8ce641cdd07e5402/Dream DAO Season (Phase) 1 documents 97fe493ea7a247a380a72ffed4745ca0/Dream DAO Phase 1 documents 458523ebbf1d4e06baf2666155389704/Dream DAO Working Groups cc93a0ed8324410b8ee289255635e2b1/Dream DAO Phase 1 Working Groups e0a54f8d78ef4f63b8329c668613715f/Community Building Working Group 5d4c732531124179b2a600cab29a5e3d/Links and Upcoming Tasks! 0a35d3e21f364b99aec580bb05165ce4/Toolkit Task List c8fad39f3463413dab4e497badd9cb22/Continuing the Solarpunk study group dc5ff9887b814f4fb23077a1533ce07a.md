@@ -1,0 +1,1 @@
+# Continuing the Solarpunk study group

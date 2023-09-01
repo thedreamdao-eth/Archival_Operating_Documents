@@ -1,0 +1,8 @@
+# Speaking of wallets...
+
+Recommend?: Yes
+Related to Dream DAO Founding Voting Member List (Resource Reviews): Tyler Stambaugh (../../../Dream%20DAO%20Voting%20Member%20List%2051fcb3d3a9444974b919b053fdd1f532/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%2052fc1f960db042648f12af3193841821/Tyler%20Stambaugh%20cbf43855a8be43ecb300fc71c374b01b.md)
+Related to [S2] Dream DAO Founding Voting Member List (Resource Reviews): Tyler Stambaugh (../../../Dream%20DAO%20Voting%20Member%20List%201790792012994a419257db8f8a7807ff/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%202c05a57dde504a87a8ced236cce0b149/Tyler%20Stambaugh%20dd8893a7020d4247a985e19e911509a3.md)
+Resource: Odd-lots: Mike Demarais on Design in Crypto and What Web 3.0 Will Look Like (../Dream%20DAO%20open%20library%20-%20resource%20list%20efd5b2b41c8847fc86ade78b2cc5b759/Odd-lots%20Mike%20Demarais%20on%20Design%20in%20Crypto%20and%20Wha%201bb07967e3ad48bf896f31898003b878.md)
+Review body (1 or more sentences): Speaking of wallets, really great podcast that dropped today called Oddlots. Tracy and Joe are two Bloomberg bloggers and podcasters who have been slowly over the last year been going down the web3 rabbit hole (albeit still skeptical which is healthy and a good differentiated take). This episode was with the guy who runs the rainbow wallet and it’s a good discussion
+Reviewer: Tyler Stambaugh (../../../Dream%20DAO%20Founding%20Voting%20Member%20Database%20Director%20353cd716a7f64dbc95acae74e661dbf4/%5Bold%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%203f9caac307fa492e8c0a1a2b82ee86c2/Tyler%20Stambaugh%20954179ae0b32480c8023f1c2e6d1517e.md)

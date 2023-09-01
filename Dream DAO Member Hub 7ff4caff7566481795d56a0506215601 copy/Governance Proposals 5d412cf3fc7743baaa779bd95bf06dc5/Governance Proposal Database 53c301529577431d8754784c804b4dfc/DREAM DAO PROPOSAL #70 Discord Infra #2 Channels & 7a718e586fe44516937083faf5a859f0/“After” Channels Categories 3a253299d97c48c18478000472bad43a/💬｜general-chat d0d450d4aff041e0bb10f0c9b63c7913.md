@@ -1,0 +1,12 @@
+# 💬｜general-chat
+
+Category: ╭─ 🌐 Public
+Accessible by: Verified (Public Visitor)
+
+# Text to put in “about”
+
+Send good vibes, ask questions and feel free to chat!
+
+# What kind of text to input IN the channel
+
+Anything honestly that is NOT a promotion of sorts

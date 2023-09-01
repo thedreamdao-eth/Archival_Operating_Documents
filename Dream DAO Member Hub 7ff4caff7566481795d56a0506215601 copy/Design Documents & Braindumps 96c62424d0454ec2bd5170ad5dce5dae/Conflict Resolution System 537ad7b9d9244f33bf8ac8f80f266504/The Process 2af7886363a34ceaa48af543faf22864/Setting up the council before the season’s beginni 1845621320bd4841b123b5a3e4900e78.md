@@ -1,0 +1,1 @@
+# Setting up the council before the season’s beginning

@@ -1,0 +1,5 @@
+# Arman-Karl Singh
+
+Status: Finished
+
+It all started with a struggle of terms, of philosophies and of commitments. Dream DAO gave me the community that didn’t make me feel out of my element for being confused, as being confused and the ability to contribute and be the best is still a very much Web3 vibe I’ve got to perceive. While I was struggling through college admissions being a first generation college student, Dream DAO gave me the room not to grieve, but to celebrate my college rejections as opportunities to explore the Web3 verse, meet prominent people from different walks of life, and realise my passion of storytelling and community building. To an extent that any average Indian college going kid would definitely never get a wildest thought of. Dream DAO helped me find our very own infinite garden, of possibilities, prosperity and purpose. And all of it wasn’t limited by money, it was powered by the people, their love and dedication to introduce GenZ-ers like me into this beautiful space that has got space for all!

@@ -1,0 +1,1 @@
+# How can the Dream DAO experiment with educating both Builders and Champions on Web3/the future of it, not just within the context of project/grantee support? In other words, providing knowledge that is useful for both Champions and Builders?

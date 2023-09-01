@@ -1,0 +1,65 @@
+﻿Design Choice,Notes,Helps fulfill what objectives?,Answers what design choices/
+Interactive Choose-Your-Own-Adventure Pathways,"Build ""stories"" of different people, so people could click one they connected with and read about how someone might get involved with web3.
+
+Examples:
+- ""Are you a climate nerd?"" →  short primer for Ethereum 2.0 and on-chain carbon 
+- ""Are you an artist? → an intro to ecodao and projects like Coral Tribe
+- ""Have a passion for donating (effective altruism)?"" → point them to Gitcoin and retroactive public goods funding
+- ""High school or college student hoping to learn how to change the world"" → Dream DAO and Crypto, Culture, and Society",To Greenpill (%5Bnoob-friendly%20regen%5D%20web3%20human%20library%2064d79198160a4f159785a94f07f29c62/Design%20Objectives%20ec2408edd6b94b75a183fee04dcd6082/To%20Greenpill%20e7a4aac761274d5091c63fcbb2cc5afb.md),So should we have different sections for different audiences? Like a buffet? (%5Bnoob-friendly%20regen%5D%20web3%20human%20library%2064d79198160a4f159785a94f07f29c62/Design%20Questions%20(1)%20bdbda912f3d04313a9abb7cd83f2a0e5/So%20should%20we%20have%20different%20sections%20for%20different%20a388cc7c36934f8fa8ccf6734750c2b1.md)
+"If explaining technicalities, explain in the length of a super short tweet","Short, sweet, elegant but comprehensive explanations as needed. 
+
+But also gracefully explain things within the original text. People can get a taste and people can choose their own highlights from the reading. ",Accessible in every way possible (%5Bnoob-friendly%20regen%5D%20web3%20human%20library%2064d79198160a4f159785a94f07f29c62/Design%20Objectives%20ec2408edd6b94b75a183fee04dcd6082/Accessible%20in%20every%20way%20possible%2061da2846e3e445b696a34d983aa3fa11.md),
+External resource netting,"Be careful about not saturating with hyperlinks and external resources! e.g. Messari Report
+
+Put resources at the end of the page!",To Greenpill (%5Bnoob-friendly%20regen%5D%20web3%20human%20library%2064d79198160a4f159785a94f07f29c62/Design%20Objectives%20ec2408edd6b94b75a183fee04dcd6082/To%20Greenpill%20e7a4aac761274d5091c63fcbb2cc5afb.md),"Do we want people to revisit the text? Or read it once and branch off of it onto new resources? Or both? (%5Bnoob-friendly%20regen%5D%20web3%20human%20library%2064d79198160a4f159785a94f07f29c62/Design%20Questions%20(1)%20bdbda912f3d04313a9abb7cd83f2a0e5/Do%20we%20want%20people%20to%20revisit%20the%20text%20Or%20read%20it%20o%2042e244fb40da4abab6f687d366fd3566.md), If it's introductory, then wouldn't it be difficult to make people come back as they take dives at the deeper end? We would have to make it so that it's like a node that holds the other nodes together- we don't want to create information gap esp for newbies. (%5Bnoob-friendly%20regen%5D%20web3%20human%20library%2064d79198160a4f159785a94f07f29c62/Design%20Questions%20(1)%20bdbda912f3d04313a9abb7cd83f2a0e5/If%20it's%20introductory,%20then%20wouldn't%20it%20be%20difficul%20b26c81c2e5a849bbbde0dd00c75d0890.md)"
+What tone?,"Tone should reflect the culture. Introduce humor! It connect people and makes narratives easier.
+
+Use really clear, clean, jargon-free prose that gets to the point instead of getting lost in technical details— similar in style to an Axios newsletter. ",Accessible in every way possible (%5Bnoob-friendly%20regen%5D%20web3%20human%20library%2064d79198160a4f159785a94f07f29c62/Design%20Objectives%20ec2408edd6b94b75a183fee04dcd6082/Accessible%20in%20every%20way%20possible%2061da2846e3e445b696a34d983aa3fa11.md),
+Explicity state [who this is for] at the top,Allows people to understand if this resource is relevant for them.,To Greenpill (%5Bnoob-friendly%20regen%5D%20web3%20human%20library%2064d79198160a4f159785a94f07f29c62/Design%20Objectives%20ec2408edd6b94b75a183fee04dcd6082/To%20Greenpill%20e7a4aac761274d5091c63fcbb2cc5afb.md),
+Make a good sell at the top; a hot-take,"And every paragraph should be a continuous sell 
+
+High impact/resonance of content should encourage “quoting” & screenshots that could be disemminated as a sharing mechanism across readers. Hot-takes are provocative & can effectively optimize distribution amongst users.",Share-able (%5Bnoob-friendly%20regen%5D%20web3%20human%20library%2064d79198160a4f159785a94f07f29c62/Design%20Objectives%20ec2408edd6b94b75a183fee04dcd6082/Share-able%202bbec6f89f54442c99e19739050be736.md),
+More movement and animations,"Make it interactive and fun to utilize!
+
+Via animations, colorful illustrations, and gradient backgrounds. ",To Greenpill (%5Bnoob-friendly%20regen%5D%20web3%20human%20library%2064d79198160a4f159785a94f07f29c62/Design%20Objectives%20ec2408edd6b94b75a183fee04dcd6082/To%20Greenpill%20e7a4aac761274d5091c63fcbb2cc5afb.md),
+Length considerations: How long should it be? Carve different reading roadmaps!,"Depends on how much time you want to invest into it. Accomodates varying levels of time, experience, and interest. 
+
+Carve different reading roadmaps!
+low-lift: to read through couple paragraphs
+med-lift: to read through selections of choice
+high-lift: to digest entire contennt
+integrat in TABLE OF CONTENTS section!",Accessible in every way possible (%5Bnoob-friendly%20regen%5D%20web3%20human%20library%2064d79198160a4f159785a94f07f29c62/Design%20Objectives%20ec2408edd6b94b75a183fee04dcd6082/Accessible%20in%20every%20way%20possible%2061da2846e3e445b696a34d983aa3fa11.md),
+Interactive navigation pointers,"Networks build into the software to thread meaningful connections/parallels/supplementary sections. This will make it significantly easier to navigate & consume. 
+
+e.g. “If you’re not satisfied with the environmental aspect, here are the 3 paragraphs of the environmental tingz”",Accessible in every way possible (%5Bnoob-friendly%20regen%5D%20web3%20human%20library%2064d79198160a4f159785a94f07f29c62/Design%20Objectives%20ec2408edd6b94b75a183fee04dcd6082/Accessible%20in%20every%20way%20possible%2061da2846e3e445b696a34d983aa3fa11.md),
+Funny interactive pieces,"We are eager to introduce clever, lighthearted humor. Learning should be fun and we want to intentionally integrate playfulness for a richer, regen-true vibe!
+
+e.g. blockchain explainer = type a guilty secret in the box but you can’t backspace (gottem!)",To Greenpill (%5Bnoob-friendly%20regen%5D%20web3%20human%20library%2064d79198160a4f159785a94f07f29c62/Design%20Objectives%20ec2408edd6b94b75a183fee04dcd6082/To%20Greenpill%20e7a4aac761274d5091c63fcbb2cc5afb.md),
+"Avoid integrating technical explanation of blockchain, crypto, or NFTs","We are focusing on use-cases that are relevant to readers. We don’t want to alienate potential readers by hammering out the technicalities; our purpose is to go beyond the technology and pinpoint how regen web3 is specifically relevant to them & their day-to-day realities.
+
+We take inspiration from our relationship to other technologies like the internet. We don’t know exactly what’s going on technically but we are fluent in applicability & usage.",Accessible in every way possible (%5Bnoob-friendly%20regen%5D%20web3%20human%20library%2064d79198160a4f159785a94f07f29c62/Design%20Objectives%20ec2408edd6b94b75a183fee04dcd6082/Accessible%20in%20every%20way%20possible%2061da2846e3e445b696a34d983aa3fa11.md),
+Screenshot-friendly designs,"We want to format the illustrations to complement screenshots & screensharing; this incentivizes distribution across users and social media. ",Share-able (%5Bnoob-friendly%20regen%5D%20web3%20human%20library%2064d79198160a4f159785a94f07f29c62/Design%20Objectives%20ec2408edd6b94b75a183fee04dcd6082/Share-able%202bbec6f89f54442c99e19739050be736.md),
+Integrate a way for people to leave something on the website or take away something?,"To take passive consumption of the material to the next level, we could integrate a feature that allows users impart a token of appreciation (a sentence or reflection)
+- Serves as an online guestbook! 
+
+It could be an option for those who really connect with it, as you’re signing something and sharing it on your social medias... 
+
+And a congratulations of making it to the end!
+
+For social media:
+A sample Tweet template to share on Twitter would be a great way to circulate, given how much web3 / NFT discourse is present in the space. 
+
+*Could also potentially introduce POAPS?",Share-able (%5Bnoob-friendly%20regen%5D%20web3%20human%20library%2064d79198160a4f159785a94f07f29c62/Design%20Objectives%20ec2408edd6b94b75a183fee04dcd6082/Share-able%202bbec6f89f54442c99e19739050be736.md),Option of designing your own NFT? Or collect the NFTs  (%5Bnoob-friendly%20regen%5D%20web3%20human%20library%2064d79198160a4f159785a94f07f29c62/Design%20Questions%20(1)%20bdbda912f3d04313a9abb7cd83f2a0e5/Option%20of%20designing%20your%20own%20NFT%20Or%20collect%20the%20NF%201b404f14b8a04a1da08b9357f8d5cc8e.md)
+Integrate (continuously) translated versions,"Despite the prevalence of global english, we want to remain accomodating to as many languages as possible. 
+
+With the high interest of crypto in South and Central American countries, we’d like to include translations in Spanish, Portugese, etc. . . . as many as possible! We also prioritize languages spoken by Dream DAO’s current Builders such as Hindi, Telegu, Russian, and German.",Accessible in every way possible (%5Bnoob-friendly%20regen%5D%20web3%20human%20library%2064d79198160a4f159785a94f07f29c62/Design%20Objectives%20ec2408edd6b94b75a183fee04dcd6082/Accessible%20in%20every%20way%20possible%2061da2846e3e445b696a34d983aa3fa11.md),
+"Like Wikipedia, allow for the continuous update of the pamphlet so that it is a living document. ","Allow verified contributors to edit and re-upload as needed. Contributors can volunteer to iterate from the Dream DAO, mentioned Impact DAOs, as well as the emerging ImpactDAO Hub’s community ",To Greenpill (%5Bnoob-friendly%20regen%5D%20web3%20human%20library%2064d79198160a4f159785a94f07f29c62/Design%20Objectives%20ec2408edd6b94b75a183fee04dcd6082/To%20Greenpill%20e7a4aac761274d5091c63fcbb2cc5afb.md),"Will this resource be introductory-like, like a spirngboard? (%5Bnoob-friendly%20regen%5D%20web3%20human%20library%2064d79198160a4f159785a94f07f29c62/Design%20Questions%20(1)%20bdbda912f3d04313a9abb7cd83f2a0e5/Will%20this%20resource%20be%20introductory-like,%20like%20a%20sp%203830aee0590342879e944f3271475d9c.md)"
+Integrate short quiz-like questions to supplement the passive reading sections,"To enrich the learning curve, we take inspiration from Kernel’s interactive question toggles that encourage readers to reflect and recall what they have read.
+
+We will sprinkle in 1-3 short quiz questions after high-value reading sections. ",To Greenpill (%5Bnoob-friendly%20regen%5D%20web3%20human%20library%2064d79198160a4f159785a94f07f29c62/Design%20Objectives%20ec2408edd6b94b75a183fee04dcd6082/To%20Greenpill%20e7a4aac761274d5091c63fcbb2cc5afb.md),What about having a short mini interactive quiz? (%5Bnoob-friendly%20regen%5D%20web3%20human%20library%2064d79198160a4f159785a94f07f29c62/Design%20Questions%20(1)%20bdbda912f3d04313a9abb7cd83f2a0e5/What%20about%20having%20a%20short%20mini%20interactive%20quiz%20785c9689b45547119110fbf0cdf764d6.md)
+Contributors’ signatures,"We’ll leave some space to give credit to the site’s designers via a small signature towards the end. 
+
+You owe cookies to... or designed with love by Dream DAO hehe 💓",,
+1:1 with regen web3 insiders,"Speak multiple languages, belong to different areas of expertise
+
+- Those who do not agree but are open-minded to dialogue and share our stories ",,

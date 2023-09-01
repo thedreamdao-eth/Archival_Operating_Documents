@@ -1,0 +1,1 @@
+# What intentional program/design choice can we make to ensure that we change the mental model of adults who don't think they can learn from young people?

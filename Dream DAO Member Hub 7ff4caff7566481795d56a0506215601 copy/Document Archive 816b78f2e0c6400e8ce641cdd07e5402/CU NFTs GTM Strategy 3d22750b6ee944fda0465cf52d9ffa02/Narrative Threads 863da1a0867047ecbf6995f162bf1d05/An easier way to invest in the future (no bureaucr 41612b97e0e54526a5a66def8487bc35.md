@@ -1,0 +1,3 @@
+# An easier way to invest in the future (no bureaucracy)
+
+Broadcasts which Goal: Raise Money for Civics Unplugged (../Goals%207e78f1fd886f4656a21d84f6be245fb2/Raise%20Money%20for%20Civics%20Unplugged%20d8d1b603f1d546489e74a214a19bfe5e.md), Fund young leaders across the globe (../Goals%207e78f1fd886f4656a21d84f6be245fb2/Fund%20young%20leaders%20across%20the%20globe%20aa1df32c5bdd4589992e9c3807db4868.md)

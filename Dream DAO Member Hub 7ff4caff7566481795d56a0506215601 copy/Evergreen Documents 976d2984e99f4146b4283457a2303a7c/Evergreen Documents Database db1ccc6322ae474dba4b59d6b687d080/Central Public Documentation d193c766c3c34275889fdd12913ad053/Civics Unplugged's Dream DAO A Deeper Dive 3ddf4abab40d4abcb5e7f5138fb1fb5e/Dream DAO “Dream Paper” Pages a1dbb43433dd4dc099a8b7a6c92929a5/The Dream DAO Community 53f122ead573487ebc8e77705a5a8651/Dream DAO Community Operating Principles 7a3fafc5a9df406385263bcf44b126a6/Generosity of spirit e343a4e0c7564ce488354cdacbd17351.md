@@ -1,0 +1,3 @@
+# Generosity of spirit
+
+Why we chose this principle: When members exhibit the openness and willingness to share their gifts with others—joyously and willingly and without expectation of receiving anything in return, they create a sense of abundance. Generosity of spirit lays a foundation of trust and reciprocity necessary to build a sustainable community where every member not just gains but wants to contribute.

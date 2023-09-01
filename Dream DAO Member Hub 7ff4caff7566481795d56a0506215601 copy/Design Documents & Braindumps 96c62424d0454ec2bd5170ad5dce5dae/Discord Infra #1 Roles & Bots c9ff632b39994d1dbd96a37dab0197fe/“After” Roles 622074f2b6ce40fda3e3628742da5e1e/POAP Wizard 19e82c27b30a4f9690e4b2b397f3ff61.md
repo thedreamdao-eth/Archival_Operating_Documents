@@ -1,0 +1,3 @@
+# POAP Wizard
+
+Type: Role

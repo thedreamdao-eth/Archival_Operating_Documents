@@ -1,0 +1,10 @@
+# Aditya Dahiya
+
+ETH Address: 0x96D3C74b113284d8b161f829495f55a8e96C5318
+Badge: Conference Attendee
+Created time: December 22, 2022 10:15 AM
+Explanation: I attended web3conf Goa in Aug '22
+Minted?: Yes
+Proof: https://s3.amazonaws.com/pf-user-files-01/u-83656/uploads/2022-12-22/if12v58/Proof.txt
+Status: Approved
+Transaction?: Yes

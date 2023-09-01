@@ -1,0 +1,7 @@
+# Facilitate Learning Together #36
+
+Contributor(s): Rashmika Vinakota (../../../Evergreen%20Documents%20976d2984e99f4146b4283457a2303a7c/Evergreen%20Documents%20Database%20db1ccc6322ae474dba4b59d6b687d080/Dream%20DAO%20Founding%20Voting%20Member%20Database%20Director%20353cd716a7f64dbc95acae74e661dbf4/%5Bold%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%203f9caac307fa492e8c0a1a2b82ee86c2/Rashmika%20Vinakota%20cfdd4bba6f134593887fb84f9c8006f9.md)
+Related to Dream DAO Founding Voting Member List (Contributions): Rashmika Vinakota (../../../Evergreen%20Documents%20976d2984e99f4146b4283457a2303a7c/Evergreen%20Documents%20Database%20db1ccc6322ae474dba4b59d6b687d080/Dream%20DAO%20Voting%20Member%20List%2051fcb3d3a9444974b919b053fdd1f532/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%2052fc1f960db042648f12af3193841821/Rashmika%20Vinakota%202405769f3500487caf7950511c564916.md)
+Related to [S2] Dream DAO Founding Voting Member List (Contributions): Rashmika Vinakota (../../../Evergreen%20Documents%20976d2984e99f4146b4283457a2303a7c/Evergreen%20Documents%20Database%20db1ccc6322ae474dba4b59d6b687d080/Dream%20DAO%20Voting%20Member%20List%201790792012994a419257db8f8a7807ff/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%202c05a57dde504a87a8ced236cce0b149/Rashmika%20Vinakota%2085975f03c46d49e194d6a17756faef39.md)
+Tentative "Size" of Contribution: Small
+When / start date: July 2, 2022

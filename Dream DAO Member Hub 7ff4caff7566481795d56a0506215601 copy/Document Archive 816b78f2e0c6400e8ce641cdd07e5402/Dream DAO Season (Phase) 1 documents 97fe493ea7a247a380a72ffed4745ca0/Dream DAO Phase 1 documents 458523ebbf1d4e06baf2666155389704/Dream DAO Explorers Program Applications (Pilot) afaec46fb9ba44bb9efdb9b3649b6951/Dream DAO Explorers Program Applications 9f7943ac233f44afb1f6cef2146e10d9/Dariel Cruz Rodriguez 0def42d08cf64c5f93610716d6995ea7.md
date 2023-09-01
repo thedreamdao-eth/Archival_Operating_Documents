@@ -1,0 +1,3 @@
+# Dariel Cruz Rodriguez
+
+Ideal host sites: I am a person full of memories. From as exaggerated as my dancing on the graduation floor for my college graduation, to as subtle as my acceptance into Student Council, I value memories above all (so much so that I still print out physical pictures as memories!) I appreciate web3 spaces like Mems because like myself, I too value memories and history an immense amount, that is why I am interested.

@@ -1,0 +1,7 @@
+# Create POAP for Learning Together #28
+
+Contributor(s): Joshua Santiago Cruz Pérez  (../../../Evergreen%20Documents%20976d2984e99f4146b4283457a2303a7c/Evergreen%20Documents%20Database%20db1ccc6322ae474dba4b59d6b687d080/Dream%20DAO%20Founding%20Voting%20Member%20Database%20Director%20353cd716a7f64dbc95acae74e661dbf4/%5Bold%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%203f9caac307fa492e8c0a1a2b82ee86c2/Joshua%20Santiago%20Cruz%20Pe%CC%81rez%200eadc0b4d05e4453a699546797f9947d.md)
+Related to Dream DAO Founding Voting Member List (Contributions): Joshua Cruz   (../../../Evergreen%20Documents%20976d2984e99f4146b4283457a2303a7c/Evergreen%20Documents%20Database%20db1ccc6322ae474dba4b59d6b687d080/Dream%20DAO%20Voting%20Member%20List%2051fcb3d3a9444974b919b053fdd1f532/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%2052fc1f960db042648f12af3193841821/Joshua%20Cruz%20c4566e4106b34e078140f9d50bf73e1f.md)
+Related to [S2] Dream DAO Founding Voting Member List (Contributions): Joshua Cruz   (../../../Evergreen%20Documents%20976d2984e99f4146b4283457a2303a7c/Evergreen%20Documents%20Database%20db1ccc6322ae474dba4b59d6b687d080/Dream%20DAO%20Voting%20Member%20List%201790792012994a419257db8f8a7807ff/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%202c05a57dde504a87a8ced236cce0b149/Joshua%20Cruz%201acc5c18b5c94cbcbf1bcf4ad15cad4b.md)
+Tentative "Size" of Contribution: Small
+When / start date: May 28, 2022

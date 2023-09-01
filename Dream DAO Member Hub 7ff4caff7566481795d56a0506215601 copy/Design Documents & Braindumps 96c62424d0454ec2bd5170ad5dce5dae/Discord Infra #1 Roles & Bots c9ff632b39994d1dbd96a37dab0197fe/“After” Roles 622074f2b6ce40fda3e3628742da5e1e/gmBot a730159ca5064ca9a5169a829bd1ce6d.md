@@ -1,0 +1,3 @@
+# gmBot
+
+Type: Bot

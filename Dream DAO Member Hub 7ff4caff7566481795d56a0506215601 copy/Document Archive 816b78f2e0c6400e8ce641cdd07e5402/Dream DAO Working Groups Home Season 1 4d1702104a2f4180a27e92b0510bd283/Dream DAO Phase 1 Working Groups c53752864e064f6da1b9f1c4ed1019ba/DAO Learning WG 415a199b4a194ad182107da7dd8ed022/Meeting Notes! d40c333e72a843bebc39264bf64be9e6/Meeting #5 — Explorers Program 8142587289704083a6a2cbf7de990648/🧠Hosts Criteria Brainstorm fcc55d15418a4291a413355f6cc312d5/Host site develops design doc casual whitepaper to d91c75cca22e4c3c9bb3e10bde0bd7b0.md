@@ -1,0 +1,1 @@
+# Host site develops design doc/casual whitepaper to communicate what they foresee the internship looking like to the intern

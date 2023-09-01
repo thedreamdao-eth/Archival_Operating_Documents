@@ -1,0 +1,3 @@
+# How is it decided which members of CU’s existing Gen Z community get to join the Dream DAO?
+
+Answer: Selected by the Civics Unplugged team with the advisement of our Gen Z lead Steering Committee based on a variety of factors which primarily focuses on involvement within the community and interest in learning web3 and engaging + cobuilding with the Dream DAO Champions. In Phase 2, the members of the Dream DAO will collectively review and select new members from applications. In Phase 3, membership is managed by a dedicated working group.

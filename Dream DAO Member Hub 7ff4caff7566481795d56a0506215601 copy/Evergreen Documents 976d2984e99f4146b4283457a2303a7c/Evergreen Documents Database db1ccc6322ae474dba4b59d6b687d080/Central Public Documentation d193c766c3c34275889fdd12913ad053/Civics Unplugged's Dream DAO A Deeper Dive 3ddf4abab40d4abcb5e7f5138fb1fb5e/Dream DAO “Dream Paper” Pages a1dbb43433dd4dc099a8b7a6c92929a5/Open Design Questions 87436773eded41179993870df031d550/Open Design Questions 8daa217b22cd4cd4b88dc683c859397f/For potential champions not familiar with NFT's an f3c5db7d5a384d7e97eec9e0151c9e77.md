@@ -1,0 +1,1 @@
+# For potential champions not familiar with NFT's and crypto—- are SkywalkerZ purchases still tax-deductible donations?

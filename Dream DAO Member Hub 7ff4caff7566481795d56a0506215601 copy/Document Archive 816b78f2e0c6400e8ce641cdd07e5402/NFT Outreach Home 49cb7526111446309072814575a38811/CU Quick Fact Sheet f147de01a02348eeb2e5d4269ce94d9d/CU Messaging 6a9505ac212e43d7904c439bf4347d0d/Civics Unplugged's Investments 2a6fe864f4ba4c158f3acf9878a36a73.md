@@ -1,0 +1,5 @@
+# Civics Unplugged's Investments
+
+What it is: Over the past year, Civics Unplugged has invested over $100,000 directly into Gen Z, impacting over 450,000 people living in America. 
+
+Our community has been joined by a network of partners and supporters -- such as https://en.wikipedia.org/wiki/Cory_Booker, https://en.wikipedia.org/wiki/Dwayne_Johnson, https://www.rhodeshouse.ox.ac.uk/, https://schmidtfutures.com/, https://bluestarfam.org/, https://www.facebook.com/, https://www.si.edu/, https://acumen.org/, http://tfa.org/ and https://www.nationalgeographic.org/ --  who have all pledged their support to Gen Z. In just a year since our founding, we’ve been featured onhttps://www.youtube.com/watch?v=tdyZ_HITpyg&t=1s&ab_channel=CivicsUnplugged, Nickelodeon, PBS,https://www.forbes.com/30-under-30/2021/social-impact/?profile=gary-sheng, and more.

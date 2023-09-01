@@ -1,0 +1,7 @@
+# Untitled
+
+Badge Name: Event Host  (../../../Merit%20System%204518d4b074e641898c4609940e10778f/Dream%20DAO%20Merit%20Badge%20List%202c9df81dd8d44702ae0214c02c7ccd25/Untitled%204df6976f51414ad997804d352babc031/Event%20Host%205989d39025554e69ad1d991f1808cc84.md)
+Given out: 3
+Given out to: Madison Adams (../../../Evergreen%20Documents%20976d2984e99f4146b4283457a2303a7c/Evergreen%20Documents%20Database%20db1ccc6322ae474dba4b59d6b687d080/Dream%20DAO%20Voting%20Member%20List%2051fcb3d3a9444974b919b053fdd1f532/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%2052fc1f960db042648f12af3193841821/Madison%20Adams%2071df4e885ea4476183c05e5b3a6e84f8.md), Aditya Dahiya  (../../../Evergreen%20Documents%20976d2984e99f4146b4283457a2303a7c/Evergreen%20Documents%20Database%20db1ccc6322ae474dba4b59d6b687d080/Dream%20DAO%20Voting%20Member%20List%2051fcb3d3a9444974b919b053fdd1f532/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%2052fc1f960db042648f12af3193841821/Aditya%20Dahiya%205ccca863b6b3440f9d3f63fa7da77a63.md), Adarsh Choudhary (../../../Evergreen%20Documents%20976d2984e99f4146b4283457a2303a7c/Evergreen%20Documents%20Database%20db1ccc6322ae474dba4b59d6b687d080/Dream%20DAO%20Voting%20Member%20List%2051fcb3d3a9444974b919b053fdd1f532/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%2052fc1f960db042648f12af3193841821/Adarsh%20Choudhary%2023d0ea3694e946b89be08eaee85d7b31.md)
+Level: 3️⃣
+Type: DAO-Wide

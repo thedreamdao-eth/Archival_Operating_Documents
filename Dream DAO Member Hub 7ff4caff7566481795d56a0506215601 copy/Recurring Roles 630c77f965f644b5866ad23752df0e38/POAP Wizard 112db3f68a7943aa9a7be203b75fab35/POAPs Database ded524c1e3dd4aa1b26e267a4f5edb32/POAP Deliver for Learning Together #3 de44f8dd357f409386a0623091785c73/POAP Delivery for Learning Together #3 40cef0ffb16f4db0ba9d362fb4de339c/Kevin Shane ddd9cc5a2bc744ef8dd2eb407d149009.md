@@ -1,0 +1,6 @@
+# Kevin Shane
+
+Discord username: stogiemonster#5319
+DMed a POAP: Yes
+Email: stogie90@gmail.com
+Unique POAP Link: http://POAP.xyz/claim/by3xgv

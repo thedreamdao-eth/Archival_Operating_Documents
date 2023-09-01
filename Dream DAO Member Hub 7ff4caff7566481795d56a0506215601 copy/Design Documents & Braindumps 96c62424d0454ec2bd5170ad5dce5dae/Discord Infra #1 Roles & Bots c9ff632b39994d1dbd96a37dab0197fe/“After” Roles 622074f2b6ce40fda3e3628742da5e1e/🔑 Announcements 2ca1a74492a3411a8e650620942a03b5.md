@@ -1,0 +1,3 @@
+# 🔑 Announcements
+
+Type: Perms

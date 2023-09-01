@@ -1,0 +1,7 @@
+# [OOT] Snapshot Proposal Email
+
+Contributor(s): Adarsh Choudhary (../../../Evergreen%20Documents%20976d2984e99f4146b4283457a2303a7c/Evergreen%20Documents%20Database%20db1ccc6322ae474dba4b59d6b687d080/Dream%20DAO%20Founding%20Voting%20Member%20Database%20Director%20353cd716a7f64dbc95acae74e661dbf4/%5Bold%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%203f9caac307fa492e8c0a1a2b82ee86c2/Adarsh%20Choudhary%20dc91fde04b154c6587ae55cd2c4637a3.md)
+Related to Dream DAO Founding Voting Member List (Contributions): Adarsh Choudhary (../../../Evergreen%20Documents%20976d2984e99f4146b4283457a2303a7c/Evergreen%20Documents%20Database%20db1ccc6322ae474dba4b59d6b687d080/Dream%20DAO%20Voting%20Member%20List%2051fcb3d3a9444974b919b053fdd1f532/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%2052fc1f960db042648f12af3193841821/Adarsh%20Choudhary%2023d0ea3694e946b89be08eaee85d7b31.md)
+Related to [S2] Dream DAO Founding Voting Member List (Contributions): Adarsh Choudhary (../../../Evergreen%20Documents%20976d2984e99f4146b4283457a2303a7c/Evergreen%20Documents%20Database%20db1ccc6322ae474dba4b59d6b687d080/Dream%20DAO%20Voting%20Member%20List%201790792012994a419257db8f8a7807ff/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%202c05a57dde504a87a8ced236cce0b149/Adarsh%20Choudhary%202a30aefaeb2348ebb64c997d31689b2b.md)
+Tentative "Size" of Contribution: Small
+When / start date: April 13, 2022

@@ -1,0 +1,8 @@
+# good overview
+
+Recommend?: Yes
+Related to Dream DAO Founding Voting Member List (Resource Reviews): Rebeca Lissa Lima Barreto (../../../Dream%20DAO%20Voting%20Member%20List%2051fcb3d3a9444974b919b053fdd1f532/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%2052fc1f960db042648f12af3193841821/Rebeca%20Lissa%20Lima%20Barreto%20545aa589efbe4284b25f1622ac67daf2.md)
+Related to [S2] Dream DAO Founding Voting Member List (Resource Reviews): Rebeca Lissa Lima Barreto (../../../Dream%20DAO%20Voting%20Member%20List%201790792012994a419257db8f8a7807ff/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%202c05a57dde504a87a8ced236cce0b149/Rebeca%20Lissa%20Lima%20Barreto%20b258b3fa89a647ad9c1bb921796707a3.md)
+Resource: Chris Dixon and Naval Ravikant — The Wonders of Web3 And Much More | The Tim Ferriss Show (../Dream%20DAO%20open%20library%20-%20resource%20list%20efd5b2b41c8847fc86ade78b2cc5b759/Chris%20Dixon%20and%20Naval%20Ravikant%20%E2%80%94%20The%20Wonders%20of%20We%2082dac28f0f404f0b812cbee39e5730d6.md)
+Review body (1 or more sentences): Cool overview about web3, I'd recommend for beginners and curious on the web 3
+Reviewer: Rebeca Lissa Lima Barreto (../../../Dream%20DAO%20Founding%20Voting%20Member%20Database%20Director%20353cd716a7f64dbc95acae74e661dbf4/%5Bold%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%203f9caac307fa492e8c0a1a2b82ee86c2/Rebeca%20Lissa%20Lima%20Barreto%20d968ceda07764ffe9c20f405403a2db5.md)

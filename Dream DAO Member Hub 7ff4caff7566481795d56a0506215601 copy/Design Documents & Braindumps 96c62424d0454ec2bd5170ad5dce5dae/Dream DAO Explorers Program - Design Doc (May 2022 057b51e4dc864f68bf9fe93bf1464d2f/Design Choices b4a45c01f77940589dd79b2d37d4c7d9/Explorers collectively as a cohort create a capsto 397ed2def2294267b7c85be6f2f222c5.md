@@ -1,0 +1,3 @@
+# Explorers collectively as a cohort create a capstone project that advances Dream DAO and the web3 x social impact space.
+
+Helps fulfill what objectives?: Explorers contributed to the collective intelligence/knowledge of the Dream DAO, web3, and the world (../Design%20Objectives%205b501b0fb6d64bab819ee55c450da97e/Explorers%20contributed%20to%20the%20collective%20intelligen%20649dd049e4b046519bca5b4dbb8cd272.md)

@@ -1,0 +1,49 @@
+# Matt Spalter
+
+About me: About me: 
+- Matt Spalter, 25
+- live in NYC
+- Continuiously asipring learner / generalist 
+- Currently at X, The Moonshot Factory
+- Family first 
+- Love meeting new people 
+- Love new adventures 
+- Live for building meaninful relationships / lasting memories 
+- Do first, talk later metality 
+
+Current work life is working at a large organization with a mission to positively impact 1 billion + people (youth always included). Aside from that, I'm always looking for new challenges and adventures to take on. Working to equip the future leaders of the world to build a better future sounds like the only way to make the world a better place for all in the long run. I will jump on that train any day of the week.  
+
+
+
+Member Type: Champion 🙌
+What are your preferred pronouns?: He / Him
+Email: matthew.spalter@gmail.com
+Discord username: Mattspalter#9169
+Did someone refer you to the Dream DAO?: Josh Thompson - JTT#6508
+Nearest major city: NYC
+Social handles: https://www.linkedin.com/in/matthew-spalter
+https://www.instagram.com/matthewspalter/
+Who is one person you DO personally know who should be involved in the Dream DAO?: This is a bit nuanced because I'm still learning more about the dream DAO and the needs of this community. Once I have a strong pulse on the needs, overall objectives (short + long term), and what energizes the community, I'll have a better understanding of who should be involved. 
+
+Off the top of my head of general awesome people: 
+Alex simpson 
+Emi Kolawole
+AJ Thomas 
+Andrew Spalter 
+Dan Keyserling 
+Emmett Gaffney 
+Jarred Kotzin 
+Who is one person you DON'T personally know who should be involved in the Dream DAO?: Alex lieberman 
+Scott Galloway 
+Kara Swisher 
+David Epstein
+ETH wallet address: 0x1e53F3d1f3588AADD1a75fac24667d6B43E189Ef
+Anything else you want to mention about what you can bring to the Dream DAO as a Dream DAO Builder?: A can do / aduacious attitude towards approaching new opportunities / challenges.
+Working Group(s): Partnerships WG (../../../../Document%20Archive%20816b78f2e0c6400e8ce641cdd07e5402/Dream%20DAO%20Working%20Groups%20Home%20Season%201%204d1702104a2f4180a27e92b0510bd283/Dream%20DAO%20Phase%201%20Working%20Groups%20c53752864e064f6da1b9f1c4ed1019ba/Partnerships%20WG%2044c8812d987940fc8290babae3d679e1.md), Community Building WG (../../../../Document%20Archive%20816b78f2e0c6400e8ce641cdd07e5402/Dream%20DAO%20Working%20Groups%20Home%20Season%201%204d1702104a2f4180a27e92b0510bd283/Dream%20DAO%20Phase%201%20Working%20Groups%20c53752864e064f6da1b9f1c4ed1019ba/Community%20Building%20WG%205d20b60407bc434ea61206919592773d.md)
+Can help how?: Learning and/or work opportunities, Mentorship, Bringing in other Champions into the community
+# contributions: 2
+Other comments: A can do / aduacious attitude towards approaching new opportunities / challenges. 
+Contributions: Meeting with various Champions/Builders 1:1  (../../../../Document%20Archive%20816b78f2e0c6400e8ce641cdd07e5402/Dream%20DAO%20Contributions%20Log%2079aa8266fcc44da3bb60c648c01cd522/Dream%20DAO%20Contributions%20Log%2046af1690c22047cb80036ece87901675/Meeting%20with%20various%20Champions%20Builders%201%201%201d3d63f63b8e4fedae452b0d6d98ca0a.md), Hosting Learning Together #10 (../../../../Document%20Archive%20816b78f2e0c6400e8ce641cdd07e5402/Dream%20DAO%20Contributions%20Log%2079aa8266fcc44da3bb60c648c01cd522/Dream%20DAO%20Contributions%20Log%2046af1690c22047cb80036ece87901675/Hosting%20Learning%20Together%20#10%2022e499ec492a480e8fc4bad3e9347b19.md)
+I am a...: Hyperconnector, Creative
+
+![Untitled](Matt%20Spalter%207c00eb2de43045fda7b8285737e050ce/Untitled.png)
