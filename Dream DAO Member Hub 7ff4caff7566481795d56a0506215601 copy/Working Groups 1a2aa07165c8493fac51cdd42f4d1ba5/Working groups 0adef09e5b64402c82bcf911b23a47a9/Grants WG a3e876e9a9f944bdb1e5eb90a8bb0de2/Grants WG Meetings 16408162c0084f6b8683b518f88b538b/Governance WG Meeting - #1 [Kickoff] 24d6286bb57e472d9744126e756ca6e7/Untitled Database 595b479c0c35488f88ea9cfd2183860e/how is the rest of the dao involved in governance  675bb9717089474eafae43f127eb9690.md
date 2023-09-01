@@ -1,0 +1,1 @@
+# how is the rest of the dao involved in governance in phase 1?

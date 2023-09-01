@@ -1,0 +1,3 @@
+# Paperform Bot
+
+Type: Bot

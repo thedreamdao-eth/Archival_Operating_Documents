@@ -1,0 +1,1 @@
+# Once someone joins the Champion community, they get the privilege to nominate Champion applicants

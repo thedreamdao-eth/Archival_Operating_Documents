@@ -1,0 +1,24 @@
+# Dave Kim
+
+About me: Hey! I'm Dave. By day, I'm a program officer on the financial services for the poor team at the Bill & Melinda Gates Foundation. I lead our work on ensuring that low-income individuals and communities have an easy, affordable, and trusted way to access and benefit from the digital economy. 
+
+Outside of that, I started Future Foundation as a way to support web3 x social impact organizations, causes, and the broader ecosystem. 
+Member Type: Champion 🙌
+What are your preferred pronouns?: he / him
+Email: dave@thisisdavekim.com
+Discord username: iodave#1214
+Did someone refer you to the Dream DAO?: Gary Sheng
+Nearest major city: Seattle, WA
+Social handles: Twitter: @iodave
+LinkedIn:  https://www.linkedin.com/in/david-kim-sometimes-dave-kim/
+Who is one person you DO personally know who should be involved in the Dream DAO?: Becca Caroll
+Who is one person you DON'T personally know who should be involved in the Dream DAO?: N/A 
+ETH wallet address: 0x0B7a1e683bB5C882722Ef2F332288a10CDA30A95
+Website: www.thisisdavekim.com
+Working Group(s): DAO Learning WG (../../../../Document%20Archive%20816b78f2e0c6400e8ce641cdd07e5402/Dream%20DAO%20Working%20Groups%20Home%20Season%201%204d1702104a2f4180a27e92b0510bd283/Dream%20DAO%20Phase%201%20Working%20Groups%20c53752864e064f6da1b9f1c4ed1019ba/DAO%20Learning%20WG%20415a199b4a194ad182107da7dd8ed022.md)
+Other comments: Thank you for the invite! I'm looking forward to helping in any way that I can. 
+Can help how?: Mentorship, Learning and/or work opportunities, human-centered design, international development, financial inclusion 
+I am a...: Philanthropist, Crypto enthusiast, Founder
+Renewal Status : Renewed
+
+![Untitled](../../Dream%20DAO%20Voting%20Member%20List%201790792012994a419257db8f8a7807ff/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%202c05a57dde504a87a8ced236cce0b149/Dave%20Kim%2044b9c2e22ce34fed946671a10688a287/Untitled.png)

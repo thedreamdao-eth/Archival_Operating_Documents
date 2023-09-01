@@ -1,0 +1,14 @@
+# Zara Jamshed
+
+About me: My name is Zara Jamshed, and I will be starting my senior year of high school in the fall of 2022. I love to learn many different things, especially interests that I have not yet explored. Since summer break has started, I took up a lot more reading at Barnes and Noble or the local library. I enjoy reading because it teleports you into another world and it opens your eyes to new perspectives and creates empathy for the pain of others. I have also been self-teaching myself how to play the piano and I have been trying my hand at writing competitions. Although I am not certain about my study interests in college, I am hoping to major in Political Science and Business with a minor in Journalism. At school, I have started exploring Computer Science and will be taking AP Computer Science A in the fall. I also have previously taken courses like AP English Language and Composition, AP Physics 1, AP U.S History, AP European History, and AP Statistics. I am part of activities like Debate and Theater at my school.
+Member Type: Builder 👷🏾‍♀️
+What are your preferred pronouns?: She/Her
+Email: zjamshed.76@gmail.com
+Discord username: Z.jamshed#7040
+Nearest major city: Dallas
+Social handles: https://www.linkedin.com/in/zara-jamshed-95a285209/
+Fellowship cohort: Spring 2022
+What's your birthday?: September 23, 2005
+Can help how?: My favorite Dream Dao opportunity is the Explorers program. Through the program I can learn more about Web3 in-depth because I get to do real assignments with a company. It creates the feeling that my work will have a genuine impact. Through connecting with a company, I will take notes on all the information given and take extra initiative to help with other projects. Since the company's mission is to create a social impact, I will be passionate about the work and I'll use the opportunity to improve my time management, organizational skills, public speaking, and writing. I also enjoy writing and designing, so making learning artifacts would let me express myself. Expressing my creativity is really relaxing and, many times, it's difficult to express yourself when you have to do specific tasks set by someone else. But through creating learning artifacts, I can focus on an issue that I am passionate about and make something cool. I also want to get more comfortable working with professional companies and would love to meet others through the Junto program.
+
+![Zara.jpg](Zara%20Jamshed%20928e449f9acf479e8dbe3011884d5b32/Zara.jpg)

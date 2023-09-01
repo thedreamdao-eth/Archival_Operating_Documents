@@ -1,0 +1,23 @@
+# Rashmika Vinakota
+
+About me: I'm a 16-year old from India who aspires to make the world around me a better place for everyone. I care about the world and the people in it. I was not exposed to anything related to cryptocurrency, or web3 and while I am excited to learn more about this, I can't wait to explore the opportunities that are bound to present themselves through the Dream DAO. 
+Member Type: Builder 👷🏾‍♀️
+What are your preferred pronouns?: she/her
+Email: rashmikavinakota@gmail.com
+Discord username: I'mSoCoolI'mPracticallyGod#8606
+Nearest major city: Hyderabad
+Social handles: https://www.linkedin.com/in/rashmika-vinakota-1335441bb/
+Who is one person you DO personally know who should be involved in the Dream DAO?: Angel Arath Velasco-Serrano
+Who is one person you DON'T personally know who should be involved in the Dream DAO?: I'm not entirely sure tbh. 
+ETH wallet address: 0x9945557d78a9242a62B2C5AB3949d923C37d68c0
+Events attended: Dream DAO "Learning Together" #1 (../../Dream%20DAO%20Events%205eb4b870ef7643a4986aa5b6f0fdb3b8/Dream%20DAO%20Events%200612daaf307c45b988a66d425cab4dda/Dream%20DAO%20Learning%20Together%20#1%201db71566ff2546aa865b14fa0dc29094.md), Dream DAO "Learning Together" #4: How Crypto Can Regenerate The World (../../Dream%20DAO%20Events%205eb4b870ef7643a4986aa5b6f0fdb3b8/Dream%20DAO%20Events%200612daaf307c45b988a66d425cab4dda/Dream%20DAO%20Learning%20Together%20#4%20How%20Crypto%20Can%20Rege%2070a7a5987c6840be9d86c2e3ed9fef71.md), Dream DAO Learning Together #32: “The Bounty for Basura” (../../Dream%20DAO%20Events%205eb4b870ef7643a4986aa5b6f0fdb3b8/Dream%20DAO%20Events%200612daaf307c45b988a66d425cab4dda/Dream%20DAO%20Learning%20Together%20#32%20%E2%80%9CThe%20Bounty%20for%20Ba%202f844cc190844c9fa75d686ba447b8bd.md), Dream DAO Learning Together #33: “Navigating Your Career in Web3” (../../Dream%20DAO%20Events%205eb4b870ef7643a4986aa5b6f0fdb3b8/Dream%20DAO%20Events%200612daaf307c45b988a66d425cab4dda/Dream%20DAO%20Learning%20Together%20#33%20%E2%80%9CNavigating%20Your%20C%2074b9d4508e6e4f5fb37a8a169f30a588.md), Dream DAO Learning Together #36: “Immanent Metaphysics” (../../Dream%20DAO%20Events%205eb4b870ef7643a4986aa5b6f0fdb3b8/Dream%20DAO%20Events%200612daaf307c45b988a66d425cab4dda/Dream%20DAO%20Learning%20Together%20#36%20%E2%80%9CImmanent%20Metaphys%20d8eb016cb8d2489bb76f2ddcaf915ad8.md)
+Anything else you want to mention about what you can bring to the Dream DAO as a Dream DAO Builder?: As a Dream DAO builder, apart from my unwavering loyalty to the project, I am a valuable asset in terms of commitment, the work I produce, and the production rate. I'm a great communicator and my strengths include writing, perseverance, and sarcastic humor. But in all seriousness, I'm a great team player and ready to step up to the initiative any time. 
+Fellowship cohort: Fall 2021
+What's your birthday?: February 3, 2005
+Working Group(s): Community Building WG (../../../../Document%20Archive%20816b78f2e0c6400e8ce641cdd07e5402/Dream%20DAO%20Working%20Groups%20Home%20Season%201%204d1702104a2f4180a27e92b0510bd283/Dream%20DAO%20Phase%201%20Working%20Groups%20c53752864e064f6da1b9f1c4ed1019ba/Community%20Building%20WG%205d20b60407bc434ea61206919592773d.md)
+Contributions: Take Notes & Facilitate Learning Together #33 (../../../../Document%20Archive%20816b78f2e0c6400e8ce641cdd07e5402/Dream%20DAO%20Contributions%20Log%2079aa8266fcc44da3bb60c648c01cd522/Dream%20DAO%20Contributions%20Log%2046af1690c22047cb80036ece87901675/Take%20Notes%20&%20Facilitate%20Learning%20Together%20#33%2079bd6ff7ed2c45c99cd2b801c3dcab42.md), Facilitate Learning Together #36 (../../../../Document%20Archive%20816b78f2e0c6400e8ce641cdd07e5402/Dream%20DAO%20Contributions%20Log%2079aa8266fcc44da3bb60c648c01cd522/Dream%20DAO%20Contributions%20Log%2046af1690c22047cb80036ece87901675/Facilitate%20Learning%20Together%20#36%205842fb17e1934b838a503cf84a4c51af.md), Take Notes for Learning Together #36 (../../../../Document%20Archive%20816b78f2e0c6400e8ce641cdd07e5402/Dream%20DAO%20Contributions%20Log%2079aa8266fcc44da3bb60c648c01cd522/Dream%20DAO%20Contributions%20Log%2046af1690c22047cb80036ece87901675/Take%20Notes%20for%20Learning%20Together%20#36%20090f415253b74c35ab8d7b545a8d76e4.md)
+# events attended: 5
+# contributions: 3
+Renewal Status : Renewed
+
+![Untitled](../../Dream%20DAO%20Voting%20Member%20List%201790792012994a419257db8f8a7807ff/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%202c05a57dde504a87a8ced236cce0b149/Rashmika%20Vinakota%2085975f03c46d49e194d6a17756faef39/Untitled.png)

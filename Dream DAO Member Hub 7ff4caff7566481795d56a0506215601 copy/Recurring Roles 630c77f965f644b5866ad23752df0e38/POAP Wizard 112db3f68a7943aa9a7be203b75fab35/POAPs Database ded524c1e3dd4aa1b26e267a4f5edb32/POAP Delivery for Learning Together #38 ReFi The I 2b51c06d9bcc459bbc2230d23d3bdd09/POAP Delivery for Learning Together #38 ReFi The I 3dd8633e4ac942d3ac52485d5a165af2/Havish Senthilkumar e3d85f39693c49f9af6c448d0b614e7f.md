@@ -1,0 +1,6 @@
+# Havish Senthilkumar
+
+Discord username: havish#2279
+DMed a POAP: Yes
+Email: https://www.notion.sosenthilkumarhavish@gmail.com
+Unique POAP Link: http://POAP.xyz/claim/c2p52i

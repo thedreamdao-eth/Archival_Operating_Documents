@@ -1,0 +1,10 @@
+# POAP Delivery for DAOWEEN 2022
+
+Property: Joshua Cruz
+Created time: October 30, 2022 12:27 AM
+
+Upload CSV here
+
+[DAOWEEN 2022 POAP Links.csv](POAP%20Delivery%20for%20DAOWEEN%202022%208bab3abc991c4182b3c21421d0c4fdb1/DAOWEEN_2022_POAP_Links.csv)
+
+[POAP Delivery for DAOWEEN 2022](POAP%20Delivery%20for%20DAOWEEN%202022%208bab3abc991c4182b3c21421d0c4fdb1/POAP%20Delivery%20for%20DAOWEEN%202022%20dc0c777315964c8da06036b59b8ebd7b.csv)

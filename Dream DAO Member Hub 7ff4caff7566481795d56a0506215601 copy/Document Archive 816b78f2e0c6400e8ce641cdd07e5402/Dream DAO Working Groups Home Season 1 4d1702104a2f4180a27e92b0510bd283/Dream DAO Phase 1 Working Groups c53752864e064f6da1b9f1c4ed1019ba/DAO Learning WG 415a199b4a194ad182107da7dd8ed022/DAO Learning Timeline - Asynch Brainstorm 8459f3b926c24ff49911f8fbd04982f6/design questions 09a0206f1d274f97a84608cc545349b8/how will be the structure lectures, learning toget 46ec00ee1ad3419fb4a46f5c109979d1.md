@@ -1,0 +1,1 @@
+# how will be the structure? lectures, learning together, hackathons?

@@ -1,0 +1,3 @@
+# Create a new usecase for NFTs / DAOs
+
+Related to Narrative Threads: Civics Unplugged is embracing the technology of the future to build the future.  (../Narrative%20Threads%20863da1a0867047ecbf6995f162bf1d05/Civics%20Unplugged%20is%20embracing%20the%20technology%20of%20th%204086c74d1a0442dfb2a73af3ea350ee5.md), Civics Unplugged was digital first pre-pandemic, and continues to push the nonprofit space forward (../Narrative%20Threads%20863da1a0867047ecbf6995f162bf1d05/Civics%20Unplugged%20was%20digital%20first%20pre-pandemic,%20a%20a1abe4fae6a64b2ca41f1080567a0b86.md)

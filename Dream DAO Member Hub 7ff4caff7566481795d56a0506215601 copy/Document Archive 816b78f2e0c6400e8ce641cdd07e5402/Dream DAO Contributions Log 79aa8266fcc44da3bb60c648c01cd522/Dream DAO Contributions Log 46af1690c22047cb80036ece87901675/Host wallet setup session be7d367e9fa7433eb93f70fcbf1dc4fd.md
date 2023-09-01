@@ -1,0 +1,7 @@
+# Host wallet setup session
+
+Contributor(s): QZ (Hum Qing Ze) (../../../Evergreen%20Documents%20976d2984e99f4146b4283457a2303a7c/Evergreen%20Documents%20Database%20db1ccc6322ae474dba4b59d6b687d080/Dream%20DAO%20Founding%20Voting%20Member%20Database%20Director%20353cd716a7f64dbc95acae74e661dbf4/%5Bold%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%203f9caac307fa492e8c0a1a2b82ee86c2/QZ%20(Hum%20Qing%20Ze)%202e30dc08cb324386829ac0204a8b1fd5.md)
+Related to Dream DAO Founding Voting Member List (Contributions): QZ (Hum Qing Ze) (../../../Evergreen%20Documents%20976d2984e99f4146b4283457a2303a7c/Evergreen%20Documents%20Database%20db1ccc6322ae474dba4b59d6b687d080/Dream%20DAO%20Voting%20Member%20List%2051fcb3d3a9444974b919b053fdd1f532/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%2052fc1f960db042648f12af3193841821/QZ%20(Hum%20Qing%20Ze)%200b31c95c9fac4a238aedd29b6d46e649.md)
+Related to [S2] Dream DAO Founding Voting Member List (Contributions): QZ (Hum Qing Ze) (../../../Evergreen%20Documents%20976d2984e99f4146b4283457a2303a7c/Evergreen%20Documents%20Database%20db1ccc6322ae474dba4b59d6b687d080/Dream%20DAO%20Voting%20Member%20List%201790792012994a419257db8f8a7807ff/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%202c05a57dde504a87a8ced236cce0b149/QZ%20(Hum%20Qing%20Ze)%204a9ddc1107bb4b819e0718e1bf8f833f.md)
+Tentative "Size" of Contribution: Big
+When / start date: December 27, 2021

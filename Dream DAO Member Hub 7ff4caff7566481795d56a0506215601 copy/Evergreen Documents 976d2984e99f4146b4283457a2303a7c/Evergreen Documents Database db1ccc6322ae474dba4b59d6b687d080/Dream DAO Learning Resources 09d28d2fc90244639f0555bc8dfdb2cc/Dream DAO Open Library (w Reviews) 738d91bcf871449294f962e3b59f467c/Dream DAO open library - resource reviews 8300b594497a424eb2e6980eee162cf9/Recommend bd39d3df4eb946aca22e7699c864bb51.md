@@ -1,0 +1,8 @@
+# Recommend
+
+Recommend?: Yes
+Related to Dream DAO Founding Voting Member List (Resource Reviews): Carl Cervone (../../../Dream%20DAO%20Voting%20Member%20List%2051fcb3d3a9444974b919b053fdd1f532/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%2052fc1f960db042648f12af3193841821/Carl%20Cervone%20a9dcc070d44544a698c7ca9c444913a8.md)
+Related to [S2] Dream DAO Founding Voting Member List (Resource Reviews): Carl Cervone (../../../Dream%20DAO%20Voting%20Member%20List%201790792012994a419257db8f8a7807ff/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%202c05a57dde504a87a8ced236cce0b149/Carl%20Cervone%207e9f6cc50ffa448194eefc635f329a16.md)
+Resource: 10 Predictions About Crypto in 2022 with Ryan Selkis (../Dream%20DAO%20open%20library%20-%20resource%20list%20efd5b2b41c8847fc86ade78b2cc5b759/10%20Predictions%20About%20Crypto%20in%202022%20with%20Ryan%20Selk%205e6786672c97404a885c72b9fa8cc805.md)
+Review body (1 or more sentences): Recommend this Bankless episode w Ryan Selkis before/after/whilst reading the Messari report Messari's Crypto Theses for 2022 (../Dream%20DAO%20open%20library%20-%20resource%20list%20efd5b2b41c8847fc86ade78b2cc5b759/Messari's%20Crypto%20Theses%20for%202022%20a932a4dabbfa4c0eb70ffd8d84b12092.md) 
+Reviewer: Carl Cervone (../../../Dream%20DAO%20Founding%20Voting%20Member%20Database%20Director%20353cd716a7f64dbc95acae74e661dbf4/%5Bold%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%203f9caac307fa492e8c0a1a2b82ee86c2/Carl%20Cervone%20079518cebae94949818112398743da02.md)

@@ -1,0 +1,3 @@
+# Community learning and knowledge sharing
+
+Why we chose this principle: No individual or organization has a monopoly on knowledge and wisdom. Everyone can learn from everyone else, and everyone's efforts can be made more effective through peer learning. The community will be able to achieve so much more if it is able to learn from the collective experiences of its members as they explore different pathways to achieving a shared outcome.

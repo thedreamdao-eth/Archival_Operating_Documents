@@ -1,0 +1,1 @@
+# Host site is able to have a HOST person of the intern that dedicates something like 15 minutes per workday supporting the intern

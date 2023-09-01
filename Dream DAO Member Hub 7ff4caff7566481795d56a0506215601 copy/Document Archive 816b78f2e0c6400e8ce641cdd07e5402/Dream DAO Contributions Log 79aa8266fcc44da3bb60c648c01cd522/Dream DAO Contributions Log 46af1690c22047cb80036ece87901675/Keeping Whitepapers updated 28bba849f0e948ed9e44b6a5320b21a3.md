@@ -1,0 +1,7 @@
+# Keeping Whitepapers updated
+
+Contributor(s): Ethan Wei (../../../Evergreen%20Documents%20976d2984e99f4146b4283457a2303a7c/Evergreen%20Documents%20Database%20db1ccc6322ae474dba4b59d6b687d080/Dream%20DAO%20Founding%20Voting%20Member%20Database%20Director%20353cd716a7f64dbc95acae74e661dbf4/%5Bold%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%203f9caac307fa492e8c0a1a2b82ee86c2/Ethan%20Wei%20dcca0fa6c4d34abeabcb3ec8e9339303.md)
+Related to Dream DAO Founding Voting Member List (Contributions): Ethan Wei (../../../Evergreen%20Documents%20976d2984e99f4146b4283457a2303a7c/Evergreen%20Documents%20Database%20db1ccc6322ae474dba4b59d6b687d080/Dream%20DAO%20Voting%20Member%20List%2051fcb3d3a9444974b919b053fdd1f532/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%2052fc1f960db042648f12af3193841821/Ethan%20Wei%204b0dd125f171499ba695ee62134d9daa.md)
+Related to [S2] Dream DAO Founding Voting Member List (Contributions): Ethan Wei (../../../Evergreen%20Documents%20976d2984e99f4146b4283457a2303a7c/Evergreen%20Documents%20Database%20db1ccc6322ae474dba4b59d6b687d080/Dream%20DAO%20Voting%20Member%20List%201790792012994a419257db8f8a7807ff/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%202c05a57dde504a87a8ced236cce0b149/Ethan%20Wei%201da9ab67a4f8461ebe60e83ece99b8ec.md)
+Tentative "Size" of Contribution: Big
+When / start date: March 28, 2022

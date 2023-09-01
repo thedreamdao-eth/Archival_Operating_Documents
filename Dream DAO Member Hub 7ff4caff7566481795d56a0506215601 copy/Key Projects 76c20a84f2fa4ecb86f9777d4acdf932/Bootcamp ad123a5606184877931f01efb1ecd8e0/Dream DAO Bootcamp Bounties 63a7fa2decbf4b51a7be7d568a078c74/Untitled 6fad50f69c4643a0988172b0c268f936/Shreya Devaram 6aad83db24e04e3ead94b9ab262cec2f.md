@@ -1,0 +1,3 @@
+# Shreya Devaram
+
+Why you would succeed in the role : I believe that I would be good in this role because I have similar experiences with welcoming new fellows into Civics Unplugged by being a Junto Guide and a CUltivator (responsible for being active and ready to answer questions posed by fellows as well as hosting events/activities). I’ve been involved with Dream DAO since I became a Founding Builder and have been active since then on things that range from my recurring role as an LT Thread Writer to Community Building efforts. I won’t be busy in January with anything else that would affect my ability to be involved for an hour a week, so I would definitely be able to make the time commitment.

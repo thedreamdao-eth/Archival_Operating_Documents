@@ -1,0 +1,1 @@
+# how does this wg vote on things?

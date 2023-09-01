@@ -1,0 +1,3 @@
+# Civics Unplugged was digital first pre-pandemic, and continues to push the nonprofit space forward
+
+Broadcasts which Goal: Shift the paradigm on what fundraising/deploying funds looks like (../Goals%207e78f1fd886f4656a21d84f6be245fb2/Shift%20the%20paradigm%20on%20what%20fundraising%20deploying%20f%2029f086eb34b040d7b20f72197f182a9e.md), Create a new usecase for NFTs / DAOs (../Goals%207e78f1fd886f4656a21d84f6be245fb2/Create%20a%20new%20usecase%20for%20NFTs%20DAOs%208d700a460aca45e9a7bc933239690c4b.md)

@@ -1,0 +1,1 @@
+# What does it mean to be an "active" member of the Dream DAO? What are the rewards for being an "active" member? What happens if someone keeps their SkywalkerZ NFT but does not meet the "active" qualification?

@@ -1,0 +1,1 @@
+# Host site is willing to jam on internship design doc with Dream DAO learning WG in advance

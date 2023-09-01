@@ -1,0 +1,58 @@
+﻿Name,Category,Action,Remark for Action
+collabland-join,No Category,Modify,Make it look a bit better + put into another category
+📢public-announcements,Information,Modify,rename into just announcements
+🏁start-here,Information,Modify,"1. Rework the message
+2. Merge faq channel in it
+"
+❓faq,Information,Delete,Merged into Start-here
+📖rules,Information,Modify,Rewrite
+😊become-a-friend-of-dao,Information,Modify,Shorter name
+🗣public-general,Public,Modify,"→ Access to folx who have are verified
+
+→ Name change to “public-chat”"
+🤗welcome,Public,Delete,It would be less confusing if this channel got deleted and instead we would welcome new members as they say “hi“ in the chat
+🌞 Solarpunk Lounge,Public,Keep,
+💬lounge-chat,Public,Archive,No longer needed as voice channels will now come with their own chat (which we should ask people to use instead)
+🌞gm,Public,Keep,Having it doesn’t hurt and some members seem to like it
+💰bounties,DreamerZ,Keep,
+🔗internal-links,DreamerZ,Keep,
+📣dreamerz-announcements,DreamerZ,Modify,Change the name + work around the perms
+🗣dreamerz-general,DreamerZ,Archive,"Past revamp’s comment: Not really needed, most of the stuff already posted there involves items that are not meant to be in the channel itself (announcements, questions, random stuff, etc.)
+Would be better to keep this discussion in the dedicated cahnnels"
+💡ideas-and-proposals,DreamerZ,Keep,
+❓ask-anything,DreamerZ,Keep,
+🏛governance-wg,Working Groups,Keep,
+💻near-wg,Working Groups,Modify,"Had been asked by Amanda to keep it. 
+Maybe rename to avoid confusion? since it is not really a WG working on the DAO, but rather a NEAR research party
+e.g. “near-explorers” etc"
+💰grants-wg,Working Groups,Keep,
+👥gatherings-wg,Working Groups,Keep,
+community-building-wg,Working Groups,Archive,Archive after the Discord discussion
+📣dao-council,Persistent Projects,Modify,Move to different category (“operations”) with changing permissions each season as the new council is onboarded
+🎪trips-and-events,Persistent Projects,Archive,Is now a part of Gatherings WG
+🤝potential-partnerships,Persistent Projects,Archive,
+🚀explorers-program,Persistent Projects,Archive,No longer needed?
+✍dream-dao-blog,Persistent Projects,Archive,Move to a different category + keep and revitalize (esp. on article-posting since it can be useful for builders and DDAO)
+☀how-we-dao,Persistent Projects,Delete,"one-off channel, link to the actual book will be posted in the “official links”"
+💡clarity-embassy,Persistent Projects,Delete,We no longer use clarity
+🧘🏻wellness-and-unplugging,Persistent Projects,Modify,Move to dreamerZ + shorter name
+📢hodler-announcements,Members and Friends,Archive,"Since we only post LT announcements here while other events are public (e.g. DDAO Twitter Space), we should post LT announcements in the LT channel.
+It will allow us to post truly big events (e.g. Twitter spaces) in the public “announcements” channel  for public visitors to see + will make the server less confusing with like 3 different annmouncements channel."
+✨news-and-inspiration,Members and Friends,Keep,
+🤩opportunities,Members and Friends,Keep,
+👋introduce-yourself,Members and Friends,Modify,Should be public category to prevent people from introing themselves in the public chat
+🌞solarpunk-vibes,Members and Friends,Keep,
+🙌engage-with-friend’s-content,Members and Friends,Delete,"Assuming the peoples’ content is worth engaging, it should be shared in #news-and-inspiration instead and there they can ask for engagement! Promotes community and prevents unnecessary requests for engaging with content not aligned to DAO’s values"
+📚learning-together-suggestions,Members and Friends,Modify,"Shorter name (e.g. ”learning-togethers”)+ use it for announcements on the upcoming LTs. It will still be DAO wide but w/out having to channels where 1 is needed.
+As for suggesting the topics for upcoming LTs, would be good to use threads where people can elaborate on the idea w/out "
+🚀skywalkerz,Members and Friends,Modify,Once we deal with NFT issues we should make it public to engage potential supporters and make them interestedin minting
+🗣️live-forum,Members and Friends,Delete,It is the same as solarpunk lounge
+🤖bots,Members and Friends,Modify,Not at all needed to be accessible by everyone (peeps managing bots should create a private channel instead)
+☺️humble-brag,Members and Friends,Archive,Modified as reflections x wellness
+🤠random,Members and Friends,Archive,"Simply moving the discussion here to one channel will: 
+1. Make our server less confusing with so many chats with little purpose
+2. Make it easier for member, friends, AND public visitors to interact as they will share a common space!"
+🌮community-love,Members and Friends,Keep,
+community-jamouts,Members and Friends,Delete,Too old + we have Gatherings WG
+Tickets Channels,Tickets,Modify,
+explorers-program,Archive,Archive,

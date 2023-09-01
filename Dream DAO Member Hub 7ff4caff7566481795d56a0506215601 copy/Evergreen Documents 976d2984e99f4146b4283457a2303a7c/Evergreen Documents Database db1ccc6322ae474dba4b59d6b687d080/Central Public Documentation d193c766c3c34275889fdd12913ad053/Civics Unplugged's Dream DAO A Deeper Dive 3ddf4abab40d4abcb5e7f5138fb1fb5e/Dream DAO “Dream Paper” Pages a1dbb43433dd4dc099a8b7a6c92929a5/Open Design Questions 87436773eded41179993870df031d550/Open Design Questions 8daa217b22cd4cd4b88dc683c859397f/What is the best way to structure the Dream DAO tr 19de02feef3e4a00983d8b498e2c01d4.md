@@ -1,0 +1,1 @@
+# What is the best way to structure the Dream DAO treasury and grant system in a way that is fully 501(c)(3) tax law compliant?

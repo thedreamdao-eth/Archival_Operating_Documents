@@ -1,0 +1,63 @@
+﻿Name,Type,Action,Reason
+CU staff,Misc,Keep,
+🤖,Bot,Keep,
+Collab.Land,Bot,Keep,
+>>>>>>>>>ROLES>>>>>>>>>,Divider,Modify,Change name
+Dream DAO Builder,Membership,Keep,
+Dream DAO Champion,Membership,Keep,
+SkywalkerZ HODLer,Membership,Keep,
+CU Fellowship Alumnus,Membership,Not Sure,"There doesn’t seem to be any use for the role, why should we differentiate?"
+Friend of DAO,Membership,Keep,
+Public Visitor,Membership,Keep,
+✍️Blogger,Misc,Keep,
+>>>>>>>>>KEYS>>>>>>>>>,Divider,Modify,Make it look a bit cleaner
+🔑Working Group Coordinator,Permissions,Modify,Change so it’s useful (make it something other than the perms key + make it related to the channel)
+🔑 gm people,Permissions,Delete,no practical use
+🔑 NFT Lover,Permissions,Delete,"no practical use
+Access to a cahnnel that doesn’t exist"
+🔑DreamerZ On-Call,Permissions,Delete,no practical use
+🔑Dream DAO Support Team,Permissions,Delete,Access to tickets. Would be good to keep it to the onboarding coordinator.
+🔑Event Management,Permissions,Modify,Recheck the perms + rethink use
+🔑Role Perms,Permissions,Modify,"Recheck the perms + rethink use
+"
+🔑Tag Perms,Permissions,Modify,Recheck the perms + rethink use
+🔑Announcements Key,Permissions,Modify,Recheck the perms + rethink use
+>>>>>>>>>GROUPS>>>>>>>>>,Divider,Modify,Make it look a bit cleaner
+Governance WG,Working Group,Keep,
+Grants WG,Working Group,Keep,
+Gatherings WG,Working Group,Keep,
+NEAR Education WG,Working Group,Modify,Change the name according to the name of the NEAR channel
+Community Building WG,Working Group,Delete,Delete after the Revamp is over
+One-off Tasks,Misc,Delete,No use
+Explorers Program Pilots,Misc,Delete,No use
+Internacional Builders,Misc,Delete,No use
+Solarpunk Lover,Misc,Not Sure,
+SkywalkerZBot,Bot,Delete,Notify when a SkywalkerZ has been resold on OpenSea. Doesn’t work.
+sesh,Misc,Delete,Not using
+TweetShift,Bot,Delete,"Posts tweets from DDAO Acc, but we decided not to use it in S1."
+Boto,Bot,Delete,"Worked once to highligh the SkywalkerZ sale  back in Nov 2021 but never since that date.
+We can find a better solution to show skywlkerz sales to be fair."
+Ticket Tool,Bot,Keep,"Ticket Tool is a highly versatile support bot for https://discord.com/ which started development in 2019. It allows private support channels, which we call tickets, between your staff team and individual who look for help."
+ChannelBot,Bot,Delete,"Tried using it for polls, ended up not using."
+MEE6,Bot,Delete,Not using it
+GiveawayBot,Bot,Delete,Don’t use it
+carl-bot,Bot,Not Sure,reaction role and moderation.
+HeyTaco!,Bot,Delete,Don’t need the bot anymore (stopped operating)
+Autorole,Bot,Delete,Not used.
+Server Booster,Misc,Keep,
+NYC Fam,Misc,Delete,Not used.
+Bookmaster,Misc,Delete,Not used.
+gmBOT,Bot,Keep,
+React-o-matic,Bot,Delete,No practical use in it tbh
+Hydra,Bot,Delete,Does naybody really use it? Sound quality is not so good to enjoy music while it also interrupts when trying to talk in teh voice channel
+Fun Events (Temp),Misc,Delete,
+Automate.io,Bot,Delete,We don’t use it. This bot connects Discord with 200+ popular apps.
+Kevin Malone,Bot,Delete,"It’s Govrn, we don’t use it"
+Zapier,Bot,Delete,"Same functions as http://Automate.io, don’t use it currently."
+Paperform,Bot,Keep,
+💡Clarity Team,Misc,Delete,Don’t use Clarity anymore
+new role,Misc,Delete,
+new role,Misc,Delete,
+new role,Misc,Delete,
+Season 3 Builder,Misc,Modify,"Add season 1, season 2 roles
+Pretty sure it’s a bootcamp role, good to confirm w/ Rebeca"

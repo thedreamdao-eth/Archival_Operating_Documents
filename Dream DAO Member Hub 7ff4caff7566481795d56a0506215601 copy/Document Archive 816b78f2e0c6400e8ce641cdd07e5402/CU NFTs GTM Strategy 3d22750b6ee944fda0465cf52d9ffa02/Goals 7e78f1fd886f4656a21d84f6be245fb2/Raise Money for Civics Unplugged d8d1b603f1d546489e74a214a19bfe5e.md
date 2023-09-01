@@ -1,0 +1,3 @@
+# Raise Money for Civics Unplugged
+
+Related to Narrative Threads: A global community of Gen Zers launched an NFT to fund social change (../Narrative%20Threads%20863da1a0867047ecbf6995f162bf1d05/A%20global%20community%20of%20Gen%20Zers%20launched%20an%20NFT%20to%20%200c8402a515554c5cb2bc46136de5afda.md), Civics Unplugged is embracing the technology of the future to build the future.  (../Narrative%20Threads%20863da1a0867047ecbf6995f162bf1d05/Civics%20Unplugged%20is%20embracing%20the%20technology%20of%20th%204086c74d1a0442dfb2a73af3ea350ee5.md), An easier way to invest in the future (no bureaucracy)  (../Narrative%20Threads%20863da1a0867047ecbf6995f162bf1d05/An%20easier%20way%20to%20invest%20in%20the%20future%20(no%20bureaucr%2041612b97e0e54526a5a66def8487bc35.md)

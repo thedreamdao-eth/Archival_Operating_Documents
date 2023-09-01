@@ -1,0 +1,7 @@
+# Thank-You Note for Learning Together #24
+
+Contributor(s): Ash Kranti Srivastava (../../../Evergreen%20Documents%20976d2984e99f4146b4283457a2303a7c/Evergreen%20Documents%20Database%20db1ccc6322ae474dba4b59d6b687d080/Dream%20DAO%20Founding%20Voting%20Member%20Database%20Director%20353cd716a7f64dbc95acae74e661dbf4/%5Bold%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%203f9caac307fa492e8c0a1a2b82ee86c2/Ash%20Kranti%20Srivastava%20b9332e4b6f8e4bcb8abc21fdb9d44ab3.md)
+Related to Dream DAO Founding Voting Member List (Contributions): Ash Kranti Srivastava (../../../Evergreen%20Documents%20976d2984e99f4146b4283457a2303a7c/Evergreen%20Documents%20Database%20db1ccc6322ae474dba4b59d6b687d080/Dream%20DAO%20Voting%20Member%20List%2051fcb3d3a9444974b919b053fdd1f532/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%2052fc1f960db042648f12af3193841821/Ash%20Kranti%20Srivastava%204a2e615529bd488e9c97b023d4a1196e.md)
+Related to [S2] Dream DAO Founding Voting Member List (Contributions): Ash Kranti Srivastava (../../../Evergreen%20Documents%20976d2984e99f4146b4283457a2303a7c/Evergreen%20Documents%20Database%20db1ccc6322ae474dba4b59d6b687d080/Dream%20DAO%20Voting%20Member%20List%201790792012994a419257db8f8a7807ff/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%202c05a57dde504a87a8ced236cce0b149/Ash%20Kranti%20Srivastava%206920961dc57b431caded73b3467cbb8d.md)
+Tentative "Size" of Contribution: Small
+When / start date: April 26, 2022

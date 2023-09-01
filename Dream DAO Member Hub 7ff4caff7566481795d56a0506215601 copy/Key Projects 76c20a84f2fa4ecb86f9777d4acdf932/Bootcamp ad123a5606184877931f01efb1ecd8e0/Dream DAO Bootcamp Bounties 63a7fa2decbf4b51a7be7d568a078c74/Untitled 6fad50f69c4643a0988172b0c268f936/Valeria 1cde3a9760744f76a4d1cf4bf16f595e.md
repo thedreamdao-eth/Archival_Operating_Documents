@@ -1,0 +1,3 @@
+# Valeria
+
+Why you would succeed in the role : I love meeting new people who share the same background of making an impact and learning about web3. I don't have any commitment between January-March, so I can be totally engaged in helping new builders to resolve their possible doubts. I am generally active on Discord channels, although I couldn't have the opportunity to interact in videocalls as much as I wanted because of my university stuff. This would be an amazing opportunity to do so.

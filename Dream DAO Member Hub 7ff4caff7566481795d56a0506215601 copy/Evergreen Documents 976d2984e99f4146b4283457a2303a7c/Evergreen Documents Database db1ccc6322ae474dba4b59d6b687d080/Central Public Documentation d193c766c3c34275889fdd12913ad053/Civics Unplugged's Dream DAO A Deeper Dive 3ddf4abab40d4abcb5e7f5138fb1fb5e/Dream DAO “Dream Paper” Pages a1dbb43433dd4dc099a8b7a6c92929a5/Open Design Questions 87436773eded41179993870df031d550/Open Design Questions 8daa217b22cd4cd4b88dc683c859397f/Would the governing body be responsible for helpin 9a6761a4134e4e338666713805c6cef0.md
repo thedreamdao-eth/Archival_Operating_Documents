@@ -1,0 +1,1 @@
+# Would the governing body be responsible for helping the community decide what badges/NFTs we create in the future?

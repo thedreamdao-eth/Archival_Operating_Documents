@@ -1,0 +1,4 @@
+# We don't charge a membership fee to some of our existing supporters (who may not be of the donor class) but can provide a lot of value in other ways
+
+Notes: For many of these people who don't have financial capital but have other forms of capital (big following, credibility in some space), the money we could raise from begging them to buy is not worth the risk of losing the ability to get their clout (which is worth more than $400).
+Achieves what objectives: #1: Build a community of Champions committed to investing in Builders (../Design%20Objectives%207df326d2b4e64a7c919c23f26e93dc55/#1%20Build%20a%20community%20of%20Champions%20committed%20to%20inv%20b11b2f142f704ec588b3bc67f8c4ccdf.md)

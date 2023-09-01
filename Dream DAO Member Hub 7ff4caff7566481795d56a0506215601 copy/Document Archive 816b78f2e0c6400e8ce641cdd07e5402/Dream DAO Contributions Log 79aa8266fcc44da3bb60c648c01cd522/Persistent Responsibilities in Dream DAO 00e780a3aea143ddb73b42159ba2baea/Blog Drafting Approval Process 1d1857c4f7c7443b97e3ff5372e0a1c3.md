@@ -1,0 +1,1 @@
+# Blog Drafting Approval Process

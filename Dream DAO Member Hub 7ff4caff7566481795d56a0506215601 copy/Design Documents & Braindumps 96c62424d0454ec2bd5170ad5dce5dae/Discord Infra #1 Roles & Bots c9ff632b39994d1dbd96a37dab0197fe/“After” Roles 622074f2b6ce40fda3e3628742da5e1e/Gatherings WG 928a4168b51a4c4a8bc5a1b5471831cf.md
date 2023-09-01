@@ -1,0 +1,3 @@
+# Gatherings WG
+
+Type: WG

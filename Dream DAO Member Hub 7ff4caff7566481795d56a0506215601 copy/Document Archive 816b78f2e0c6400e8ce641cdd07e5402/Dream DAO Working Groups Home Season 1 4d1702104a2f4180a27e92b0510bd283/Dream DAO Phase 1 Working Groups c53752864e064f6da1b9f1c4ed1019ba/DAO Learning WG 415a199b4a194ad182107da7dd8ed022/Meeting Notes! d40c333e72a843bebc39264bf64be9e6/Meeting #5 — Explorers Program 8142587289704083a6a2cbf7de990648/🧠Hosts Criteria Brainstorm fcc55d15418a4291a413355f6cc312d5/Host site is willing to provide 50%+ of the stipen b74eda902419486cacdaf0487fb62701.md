@@ -1,0 +1,1 @@
+# Host site is willing to provide 50%+ of the stipend

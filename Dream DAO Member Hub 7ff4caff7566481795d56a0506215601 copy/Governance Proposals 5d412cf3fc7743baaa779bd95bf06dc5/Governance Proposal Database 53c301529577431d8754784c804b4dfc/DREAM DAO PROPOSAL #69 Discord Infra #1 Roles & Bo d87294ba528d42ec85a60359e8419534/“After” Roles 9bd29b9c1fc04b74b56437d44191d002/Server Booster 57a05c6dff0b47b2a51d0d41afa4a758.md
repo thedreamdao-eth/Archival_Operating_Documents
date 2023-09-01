@@ -1,0 +1,3 @@
+# Server Booster
+
+Type: Misc

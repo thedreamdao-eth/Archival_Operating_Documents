@@ -1,0 +1,12 @@
+# Alejandra Borda
+
+About me: I am Ale, originally from Peru, currently studying entrepreneurship. I am passionate about all things social impact, I've started Sigueme Voluntariado, an NGO in the poorest slums of Peru, we built 25 houses and 16 staircases. I then started Enseñame and scaled an online platform to bring one-on-one education to children in Peru whose schools closed as they had no resources to provide online classes. It scaled to 3000 kids tutored by 3000 tutors within 5 months and many professional psychologists, teachers ad big companies CSR initiatives such as IBM joined the mission to support our volunteers. My role in both NGOs was in the strategic, coordinating, and executing side to lead the teams.  This summer I interned at Fifty Years, a VC supporting entrepreneurs solving worlds problems (literally if the impact was not the end goal, it was a pass) and currently exploring my next entrepreneurial endeavour. My passion for impact started through helping these communities but I am very excited about health in particular. I am fascinated about optimizing our biology so we no longer have disease through the right nutrition, meditation, syncing our circadian rhythm, fasting, cold exposure, and choosing the actions that are individually right for each person's unique biology. We have stirred away from nature so much and lost touch with our internal biology hence creating disease. I see web3 brings immense opportunity to bring finance to the unbanked, job opportunities with those with less access to education, to use finance as a means to regenerate our environment and to create communities that can pursue passions and create value for the planet while also being rewarded for it. I see web3 as the opportunity to shift away from traditional ineffective nonprofit activity into a radical systemic change through community and redefining processes but still need a community of other builders and mentors in the space to achieve this mission. 
+Pronouns: she/her
+Membership Status: Active Voting Member
+Membership Type: Founding Builder 🧑‍🚀 
+Discord Username: Ale borda#2295
+Email: aletborda01@gmail.com
+Wallet Address: 0x82c4d6f212F30701234aDbFfbB5ed8D65B06910C
+Nearest Major City: New York City
+Birthday: March 9, 2001
+LinkedIn : https://www.linkedin.com/in/alejandra-borda/

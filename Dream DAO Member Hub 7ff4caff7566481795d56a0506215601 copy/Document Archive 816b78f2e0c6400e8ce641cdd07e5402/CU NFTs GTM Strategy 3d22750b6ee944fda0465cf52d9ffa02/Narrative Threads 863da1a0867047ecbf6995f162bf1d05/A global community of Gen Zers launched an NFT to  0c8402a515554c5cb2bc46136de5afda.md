@@ -1,0 +1,3 @@
+# A global community of Gen Zers launched an NFT to fund social change
+
+Broadcasts which Goal: Raise Money for Civics Unplugged (../Goals%207e78f1fd886f4656a21d84f6be245fb2/Raise%20Money%20for%20Civics%20Unplugged%20d8d1b603f1d546489e74a214a19bfe5e.md), Fund young leaders across the globe (../Goals%207e78f1fd886f4656a21d84f6be245fb2/Fund%20young%20leaders%20across%20the%20globe%20aa1df32c5bdd4589992e9c3807db4868.md), Shift the paradigm on what fundraising/deploying funds looks like (../Goals%207e78f1fd886f4656a21d84f6be245fb2/Shift%20the%20paradigm%20on%20what%20fundraising%20deploying%20f%2029f086eb34b040d7b20f72197f182a9e.md)

@@ -1,0 +1,3 @@
+# SM Coordinator
+
+Type: Role

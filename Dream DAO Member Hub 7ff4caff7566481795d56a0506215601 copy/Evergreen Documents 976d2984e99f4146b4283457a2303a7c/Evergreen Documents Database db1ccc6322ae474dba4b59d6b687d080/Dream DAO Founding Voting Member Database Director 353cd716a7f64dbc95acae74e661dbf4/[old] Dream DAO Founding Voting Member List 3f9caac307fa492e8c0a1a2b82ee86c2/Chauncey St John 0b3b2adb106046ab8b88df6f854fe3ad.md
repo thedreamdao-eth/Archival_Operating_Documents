@@ -1,0 +1,23 @@
+# Chauncey St. John
+
+About me: My name is Chauncey St. John, founder of Angel Protocol, and I care about building a better world for ourselves & our children. Web3 provides the tools to do that, and it's beholden on us to harness its power for a more equitable & prosperous future, globally.
+Member Type: Champion 🙌
+What are your preferred pronouns?: he/him
+Email: chauncey@angelprotocol.io
+Discord username: ChaunceyStJohn#9034
+Did someone refer you to the Dream DAO?: Gary Sheng
+Nearest major city: Manhattan
+Social handles: https://www.linkedin.com/in/chauncey-st-john/
+https://twitter.com/chauncey_stjohn
+No Instagram, Telegram though: @chaunceystjohn
+ETH wallet address: 0xeaA805264218396aF255fa4d0Ff6CcC99E5BB16F
+Events attended: Dream DAO "Learning Together" #4: How Crypto Can Regenerate The World (../../Dream%20DAO%20Events%205eb4b870ef7643a4986aa5b6f0fdb3b8/Dream%20DAO%20Events%200612daaf307c45b988a66d425cab4dda/Dream%20DAO%20Learning%20Together%20#4%20How%20Crypto%20Can%20Rege%2070a7a5987c6840be9d86c2e3ed9fef71.md)
+Website: https://www.angelprotocol.io/
+Working Group(s): Partnerships WG (../../../../Document%20Archive%20816b78f2e0c6400e8ce641cdd07e5402/Dream%20DAO%20Working%20Groups%20Home%20Season%201%204d1702104a2f4180a27e92b0510bd283/Dream%20DAO%20Phase%201%20Working%20Groups%20c53752864e064f6da1b9f1c4ed1019ba/Partnerships%20WG%2044c8812d987940fc8290babae3d679e1.md)
+Other comments: Would love to utilize the power of Angel Protocol to help source funding for the Dream DAO & establish a charitable endowment
+Can help how?: Mentorship, Bringing in other Champions into the community, Learning and/or work opportunities
+I am a...: Founder, Philanthropist, Hyperconnector, Crypto enthusiast, Web3 expert
+# events attended: 1
+Renewal Status : Renewed
+
+![Untitled](../../Dream%20DAO%20Voting%20Member%20List%201790792012994a419257db8f8a7807ff/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%202c05a57dde504a87a8ced236cce0b149/Chauncey%20St%20John%202aa9569ef09c43aa92d894c43f0bead5/Untitled.png)

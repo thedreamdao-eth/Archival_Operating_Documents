@@ -1,0 +1,3 @@
+# Commitment to adaptation and evolution
+
+Why we chose this principle: All members must be systems thinkers — recognizing the complexity of the educational ecosystem and the social sector as a whole. We must let learnings emerge, and accept that directions can and will change. And this is for the better. Embracing that inevitability and actively looking to improve the way we do things as a community and as individuals is critical to the ability of the collective to build a brighter future for humanity.

@@ -1,0 +1,9 @@
+# Douglas Qian
+
+Relationship Status: Friend of DAO
+Contact Info: @douglasqian
+DD Contact Owner: Ethan Wei (../../Dream%20DAO%20Voting%20Member%20List%2051fcb3d3a9444974b919b053fdd1f532/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%2052fc1f960db042648f12af3193841821/Ethan%20Wei%204b0dd125f171499ba695ee62134d9daa.md), Jae-Hee Bae (../../Dream%20DAO%20Voting%20Member%20List%2051fcb3d3a9444974b919b053fdd1f532/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%2052fc1f960db042648f12af3193841821/Jae-Hee%20Bae%20e2263879d3824a99be1bb92a68bce31c.md), Carl Cervone (../../Dream%20DAO%20Voting%20Member%20List%2051fcb3d3a9444974b919b053fdd1f532/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%2052fc1f960db042648f12af3193841821/Carl%20Cervone%20a9dcc070d44544a698c7ca9c444913a8.md)
+Last Contact: August 9, 2022
+Method of Initial Contact: Personal Connection
+Organization(s): Spirals Protocol (../CRM%20Organizations%20402b0e3903db4717afcd1a1ec7192fa6/Spirals%20Protocol%2002957a5d61604ce6b5fbc688b6342e96.md)
+Related to [S2] Dream DAO Founding Voting Member List (CRM Contacts): Ethan Wei (../../Dream%20DAO%20Voting%20Member%20List%201790792012994a419257db8f8a7807ff/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%202c05a57dde504a87a8ced236cce0b149/Ethan%20Wei%201da9ab67a4f8461ebe60e83ece99b8ec.md), Jae-Hee Bae (../../Dream%20DAO%20Voting%20Member%20List%201790792012994a419257db8f8a7807ff/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%202c05a57dde504a87a8ced236cce0b149/Jae-Hee%20Bae%206d013ed02dce44268fcbd8394fc1be89.md), Carl Cervone (../../Dream%20DAO%20Voting%20Member%20List%201790792012994a419257db8f8a7807ff/%5BS2%5D%20Dream%20DAO%20Founding%20Voting%20Member%20List%202c05a57dde504a87a8ced236cce0b149/Carl%20Cervone%207e9f6cc50ffa448194eefc635f329a16.md)

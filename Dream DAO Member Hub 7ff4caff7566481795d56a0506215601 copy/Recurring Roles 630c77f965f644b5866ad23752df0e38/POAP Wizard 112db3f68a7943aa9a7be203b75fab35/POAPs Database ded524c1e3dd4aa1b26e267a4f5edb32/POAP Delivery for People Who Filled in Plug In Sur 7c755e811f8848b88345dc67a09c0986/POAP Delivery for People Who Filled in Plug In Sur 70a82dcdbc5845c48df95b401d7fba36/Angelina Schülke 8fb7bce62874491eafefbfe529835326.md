@@ -1,0 +1,7 @@
+# Angelina Schülke
+
+Discord username: Angelina Schülke (she/her)#7952
+DMed a POAP: Yes
+Email: angi1304@t-online.de
+Unique POAP Link: 
+http://POAP.xyz/claim/suxjf5

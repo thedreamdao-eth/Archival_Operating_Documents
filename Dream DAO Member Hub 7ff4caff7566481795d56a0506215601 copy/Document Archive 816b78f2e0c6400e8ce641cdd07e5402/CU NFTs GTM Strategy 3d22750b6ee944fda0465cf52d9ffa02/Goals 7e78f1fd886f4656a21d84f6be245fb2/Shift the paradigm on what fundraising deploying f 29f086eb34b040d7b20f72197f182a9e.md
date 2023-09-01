@@ -1,0 +1,3 @@
+# Shift the paradigm on what fundraising/deploying funds looks like
+
+Related to Narrative Threads: A global community of Gen Zers launched an NFT to fund social change (../Narrative%20Threads%20863da1a0867047ecbf6995f162bf1d05/A%20global%20community%20of%20Gen%20Zers%20launched%20an%20NFT%20to%20%200c8402a515554c5cb2bc46136de5afda.md), Civics Unplugged was digital first pre-pandemic, and continues to push the nonprofit space forward (../Narrative%20Threads%20863da1a0867047ecbf6995f162bf1d05/Civics%20Unplugged%20was%20digital%20first%20pre-pandemic,%20a%20a1abe4fae6a64b2ca41f1080567a0b86.md)

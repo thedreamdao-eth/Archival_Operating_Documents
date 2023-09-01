@@ -1,0 +1,1 @@
+# it's not clear what governance will look like in the DAO. What is the role of the governing body? What are timeless high level objectives? By timeless I'm asking - what foundation do we need set and what do they do to maintain once governing system has been set up?
